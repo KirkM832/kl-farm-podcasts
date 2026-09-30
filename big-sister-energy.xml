@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Big Sister Energy</title>
+    <link>https://KirkM832.github.io/kl-farm-podcasts/big-sister-energy.xml</link>
+    <description>Big Sister Energy is a daily show for teen girls, hosted by Maya and Zoe - your fun big sisters who actually get it. Confidence, friendships, big emotions, dating, money sense, goals, and study skills, plus listener call-ins and everyday fun stuff. Real talk, zero lectures.</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Kids &amp; Family" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Big Sister Energy is a daily show for teen girls, hosted by Maya and Zoe - your fun big sisters who actually get it. Confidence, friendships, big emotions, dating, money sense, goals, and study skills, plus listener call-ins and everyday fun stuff. Real talk, zero lectures.</itunes:summary>
+    <itunes:keywords>teen advice,big sister advice,confidence for teens,teen girls,friendship,teen life,self esteem</itunes:keywords>
+    <itunes:image href="https://KirkM832.github.io/kl-farm-podcasts/big-sister-energy-cover.jpg" />
+    <item>
+      <title>Big Sister Energy: The Odd-One-Out Episode</title>
+      <description>Maya and Zoe on feeling different, making friends, handling big emotions, dating at fifteen, money sense, chasing a college majorette dream, and how to actually study.
+
+AI Generated</description>
+      <itunes:summary>Maya and Zoe on feeling different, making friends, handling big emotions, dating at fifteen, money sense, chasing a college majorette dream, and how to actually study.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-6877c42a-d7e3-4add-9be8-fd56ad59474a</guid>
+      <pubDate>Tue, 29 Sep 2026 09:26:20 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-6877c42a-d7e3-4add-9be8-fd56ad59474a.mp3" length="5927653" type="audio/mpeg" />
+      <itunes:duration>740</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
