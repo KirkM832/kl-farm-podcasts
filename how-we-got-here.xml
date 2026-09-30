@@ -16,5 +16,19 @@
     <itunes:summary>Ordinary people, extraordinary times - what it was really like to live through history's biggest moments. From gods and empires to trenches and technology: each episode opens with a broad era overview, then zooms into one individual's day - a Cullman farm boy in 1917, a flapper in 1920s Chicago, a Roman soldier in Judea - as history happens around them. Only verifiable history; dramatized scenes are labeled as reconstruction.</itunes:summary>
     <itunes:keywords>history,lived history,ordinary people,ancient rome,world war 1,american history,true stories</itunes:keywords>
     <itunes:image href="https://KirkM832.github.io/kl-farm-podcasts/how-we-got-here-cover.jpg" />
+    <item>
+      <title>How We Got Here: The Furthest From Home</title>
+      <description>1917. Earl is nineteen, he has never been thirty miles from the family farm in Cullman, Alabama, and then a typed letter arrives. Walt opens up wide on a world at war, then zooms into one farm boy's day, and asks the question that drives the whole episode: how did this happen? Cousin-kings, nationalism, empires, machine guns, and God on everybody's side.
+
+AI Generated</description>
+      <itunes:summary>1917. Earl is nineteen, he has never been thirty miles from the family farm in Cullman, Alabama, and then a typed letter arrives. Walt opens up wide on a world at war, then zooms into one farm boy's day, and asks the question that drives the whole episode: how did this happen? Cousin-kings, nationalism, empires, machine guns, and God on everybody's side.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9b799791-d87f-4b23-b9e6-ca4b3788b0e5</guid>
+      <pubDate>Wed, 30 Sep 2026 17:15:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/ee409064-da3e-48f3-97e5-7d88c99f7e4e/ep-9b799791-d87f-4b23-b9e6-ca4b3788b0e5.mp3" length="27495589" type="audio/mpeg" />
+      <itunes:duration>3436</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

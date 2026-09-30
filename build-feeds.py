@@ -85,7 +85,7 @@ SHOWS = [
         # No source feed yet: pilot not published. Emits channel-only XML until
         # the first episode publishes; then add the platform feed URL here.
         "slug": "how-we-got-here",
-        "source": None,
+        "source": "https://muse.ai/podcasts/feed/1258569844016700/ee409064-da3e-48f3-97e5-7d88c99f7e4e",
         "category": "History",
         "title": "How We Got Here",
         "description": (
