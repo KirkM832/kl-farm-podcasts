@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Lantern Stories</title>
+    <link>https://muse.ai/podcasts/feed/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340</link>
+    <description>A gentle nightly bedtime story show for Molly — cozy chats, softly told true history and favorite books retold, ending with a calming wind-down.
+
+AI Generated</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Kids &amp; Family" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>A gentle nightly bedtime story show for Molly — cozy chats, softly told true history and favorite books retold, ending with a calming wind-down.
+
+AI Generated</itunes:summary>
+    <itunes:image href="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/cover.png" />
+    <item>
+      <title>Lantern Stories: The First Teddy Bear</title>
+      <description>The cozy pilot: Wren and Bea get comfy, then Hazel tells the true, gentle story of how the teddy bear was born — ending with our sleepy breathing ritual.
+
+AI Generated</description>
+      <itunes:summary>The cozy pilot: Wren and Bea get comfy, then Hazel tells the true, gentle story of how the teddy bear was born — ending with our sleepy breathing ritual.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-da13ca39-69da-4c3b-addd-a2c792c78df4</guid>
+      <pubDate>Tue, 29 Sep 2026 10:26:26 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-da13ca39-69da-4c3b-addd-a2c792c78df4.mp3" length="4772581" type="audio/mpeg" />
+      <itunes:duration>596</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

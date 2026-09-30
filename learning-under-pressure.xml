@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Learning Under Pressure</title>
+    <link>https://muse.ai/podcasts/feed/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232</link>
+    <description>Daily safety and wound-care briefings for hyperbaric and wound center staff.
+
+AI Generated</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Daily safety and wound-care briefings for hyperbaric and wound center staff.
+
+AI Generated</itunes:summary>
+    <itunes:image href="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/cover.png" />
+    <item>
+      <title>Learning Under Pressure: Clean Hands, Safe Patients</title>
+      <description>Why hand hygiene is still the single most important infection-prevention practice in wound and hyperbaric care.
+
+AI Generated</description>
+      <itunes:summary>Why hand hygiene is still the single most important infection-prevention practice in wound and hyperbaric care.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c5d7262d-5eb9-48ac-a1fe-aa48b921277a</guid>
+      <pubDate>Tue, 29 Sep 2026 11:30:17 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-c5d7262d-5eb9-48ac-a1fe-aa48b921277a.mp3" length="1969765" type="audio/mpeg" />
+      <itunes:duration>246</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Speak Up, Report It</title>
+      <description>Casey on preventing patient safety events — and why reporting them, including near misses, makes the whole center safer. Policy A136 has the how.
+
+AI Generated</description>
+      <itunes:summary>Casey on preventing patient safety events — and why reporting them, including near misses, makes the whole center safer. Policy A136 has the how.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-1ac028ef-bdd8-418f-8ee9-898a4a215135</guid>
+      <pubDate>Wed, 30 Sep 2026 10:34:10 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-1ac028ef-bdd8-418f-8ee9-898a4a215135.mp3" length="2156965" type="audio/mpeg" />
+      <itunes:duration>269</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

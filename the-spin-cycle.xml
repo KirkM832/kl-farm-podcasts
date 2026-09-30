@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Spin Cycle</title>
+    <link>https://muse.ai/podcasts/feed/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb</link>
+    <description>Gus and June put the week's political shouting through the wash: what one side says, what the other side says, what verifiably happened, and the part nobody's saying. Funny, never depressing.
+
+AI Generated</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="News" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Gus and June put the week's political shouting through the wash: what one side says, what the other side says, what verifiably happened, and the part nobody's saying. Funny, never depressing.
+
+AI Generated</itunes:summary>
+    <itunes:image href="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/cover.png" />
+    <item>
+      <title>The Spin Cycle: Jack Smith Faces the Senate</title>
+      <description>Gus and June put the Jack Smith Senate hearing through the wash: what the right says, what the left says, what verifiably happened, and the part nobody's saying out loud.
+
+AI Generated</description>
+      <itunes:summary>Gus and June put the Jack Smith Senate hearing through the wash: what the right says, what the left says, what verifiably happened, and the part nobody's saying out loud.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9d68ee9d-27d4-4c7c-965b-20a2ae0e306f</guid>
+      <pubDate>Tue, 29 Sep 2026 16:19:09 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-9d68ee9d-27d4-4c7c-965b-20a2ae0e306f.mp3" length="3172453" type="audio/mpeg" />
+      <itunes:duration>396</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

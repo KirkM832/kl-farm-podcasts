@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Today with Kirk</title>
+    <link>https://muse.ai/podcasts/feed/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72</link>
+    <description>Kirk's daily podcasts: The AI Briefing and Dominoes.
+
+AI Generated</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Kirk's daily podcasts: The AI Briefing and Dominoes.
+
+AI Generated</itunes:summary>
+    <itunes:image href="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/cover.png" />
+    <item>
+      <title>The AI Briefing: There's a New Bot in Town</title>
+      <description>Oliver and Tilly on Meta's chart-topping Muse app, the great chatbot market share shake-up, and the viral video dividing the internet.
+
+AI Generated</description>
+      <itunes:summary>Oliver and Tilly on Meta's chart-topping Muse app, the great chatbot market share shake-up, and the viral video dividing the internet.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e8e9a1d6-224e-4cac-b6b5-dd4f0ed17364</guid>
+      <pubDate>Mon, 28 Sep 2026 19:05:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-e8e9a1d6-224e-4cac-b6b5-dd4f0ed17364.mp3" length="1877221" type="audio/mpeg" />
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: How We Got Here</title>
+      <description>Oliver and Tilly knock over all of human history, from the first farmers to modern Iran and Japan, showing how every domino led to you.
+
+AI Generated</description>
+      <itunes:summary>Oliver and Tilly knock over all of human history, from the first farmers to modern Iran and Japan, showing how every domino led to you.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-ad7b750c-82e5-497d-88d9-c9d7dc833000</guid>
+      <pubDate>Mon, 28 Sep 2026 19:37:59 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-ad7b750c-82e5-497d-88d9-c9d7dc833000.mp3" length="4365157" type="audio/mpeg" />
+      <itunes:duration>545</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Sister Energy: The Odd-One-Out Episode</title>
+      <description>Maya and Zoe on feeling different, making friends, handling big emotions, dating at fifteen, money sense, chasing a college majorette dream, and how to actually study.
+
+AI Generated</description>
+      <itunes:summary>Maya and Zoe on feeling different, making friends, handling big emotions, dating at fifteen, money sense, chasing a college majorette dream, and how to actually study.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-6877c42a-d7e3-4add-9be8-fd56ad59474a</guid>
+      <pubDate>Tue, 29 Sep 2026 09:26:20 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-6877c42a-d7e3-4add-9be8-fd56ad59474a.mp3" length="5927653" type="audio/mpeg" />
+      <itunes:duration>740</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The AI Briefing: The Bot That Failed Its Own Safety Test</title>
+      <description>Oliver and Tilly on OpenAI shelving GPT-6.1 Astra over safety, Nvidia's new agent guardrails, the White House AI meeting, and Adobe tools landing in Gemini and Claude.
+
+AI Generated</description>
+      <itunes:summary>Oliver and Tilly on OpenAI shelving GPT-6.1 Astra over safety, Nvidia's new agent guardrails, the White House AI meeting, and Adobe tools landing in Gemini and Claude.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-f62127fc-d512-4122-a528-5af61e562a6d</guid>
+      <pubDate>Tue, 29 Sep 2026 11:23:27 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-f62127fc-d512-4122-a528-5af61e562a6d.mp3" length="3442405" type="audio/mpeg" />
+      <itunes:duration>430</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Monk Who Cracked the Church</title>
+      <description>Milo and Ruby on Martin Luther, the ninety-five theses, and how one monk's protest split Christianity, armed the printing press, and started the domino run that made Lutherans, Baptists, and Methodists.
+
+AI Generated</description>
+      <itunes:summary>Milo and Ruby on Martin Luther, the ninety-five theses, and how one monk's protest split Christianity, armed the printing press, and started the domino run that made Lutherans, Baptists, and Methodists.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-2fa9761d-30ab-4b51-a97f-6c1b0e12623d</guid>
+      <pubDate>Tue, 29 Sep 2026 12:47:18 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-2fa9761d-30ab-4b51-a97f-6c1b0e12623d.mp3" length="17664613" type="audio/mpeg" />
+      <itunes:duration>2208</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The AI Briefing: OpenAI's Dots Join the Agent Wars</title>
+      <description>Oliver and Tilly on OpenAI's always-on dots agents, the government's new America.gov chatbot powered by Gemini and Grok, and Gemini making your phone calls for you.
+
+AI Generated</description>
+      <itunes:summary>Oliver and Tilly on OpenAI's always-on dots agents, the government's new America.gov chatbot powered by Gemini and Grok, and Gemini making your phone calls for you.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-83c0f9de-fbdc-4e35-8b45-b243aa061002</guid>
+      <pubDate>Wed, 30 Sep 2026 11:24:08 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-83c0f9de-fbdc-4e35-8b45-b243aa061002.mp3" length="2811877" type="audio/mpeg" />
+      <itunes:duration>351</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

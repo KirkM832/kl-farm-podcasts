@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Before Cullman</title>
+    <link>https://muse.ai/podcasts/feed/1258569844016700/964f6b2e-ff99-4dc8-95ef-fabb89bc9115</link>
+    <description>Ellis traces Kirk's Moore family back as far as the records go — and says plainly when the guessing starts. A family-history mystery, one obituary at a time.
+
+AI Generated</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="History" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Ellis traces Kirk's Moore family back as far as the records go — and says plainly when the guessing starts. A family-history mystery, one obituary at a time.
+
+AI Generated</itunes:summary>
+    <itunes:image href="https://muse.ai/podcasts/media/1258569844016700/964f6b2e-ff99-4dc8-95ef-fabb89bc9115/cover.png" />
+    <item>
+      <title>Before Cullman: The Niece in the Obituary</title>
+      <description>Kirk's grandmother Ola was reared by Ma and Pa Horton — and one 1932 obituary proves the whole line. Episode one of the Moore family history.
+
+AI Generated</description>
+      <itunes:summary>Kirk's grandmother Ola was reared by Ma and Pa Horton — and one 1932 obituary proves the whole line. Episode one of the Moore family history.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-41d4d3d0-65fb-48d0-95b7-a258aa0afa4c</guid>
+      <pubDate>Tue, 29 Sep 2026 16:36:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/964f6b2e-ff99-4dc8-95ef-fabb89bc9115/ep-41d4d3d0-65fb-48d0-95b7-a258aa0afa4c.mp3" length="3042661" type="audio/mpeg" />
+      <itunes:duration>380</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Niece in the Obituary</title>
+      <description>The corrected pilot: Kirk's grandmother Ola was reared by Ma and Pa Horton, and one 1932 obituary proves the whole line. Now with the FamilySearch breakthrough, all five children named, and the Nancy Wanda correction.
+
+AI Generated</description>
+      <itunes:summary>The corrected pilot: Kirk's grandmother Ola was reared by Ma and Pa Horton, and one 1932 obituary proves the whole line. Now with the FamilySearch breakthrough, all five children named, and the Nancy Wanda correction.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-f1305a10-0891-4b33-9df5-5654733fa949</guid>
+      <pubDate>Tue, 29 Sep 2026 18:56:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/964f6b2e-ff99-4dc8-95ef-fabb89bc9115/ep-f1305a10-0891-4b33-9df5-5654733fa949.mp3" length="4144549" type="audio/mpeg" />
+      <itunes:duration>518</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
