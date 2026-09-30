@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Workshop</title>
+    <link>https://KirkM832.github.io/kl-farm-podcasts/the-workshop.xml</link>
+    <description>The Workshop is a behind-the-scenes show about what Kirk's AI actually built and fixed this week: podcasts, laser designs, research, trip plans, and the occasional audio surgery. Every episode is the real work - if it didn't happen, we don't say it happened.</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>The Workshop is a behind-the-scenes show about what Kirk's AI actually built and fixed this week: podcasts, laser designs, research, trip plans, and the occasional audio surgery. Every episode is the real work - if it didn't happen, we don't say it happened.</itunes:summary>
+    <itunes:keywords>artificial intelligence,AI assistant,behind the scenes,technology,how AI works</itunes:keywords>
+    <itunes:image href="https://KirkM832.github.io/kl-farm-podcasts/the-workshop-cover.jpg" />
+    <item>
+      <title>Welcome to the Workshop</title>
+      <description>A new show about what Kirk's AI actually did this week: nine podcasts in two days, magnetic dress-up farm animals, and surgery on a stuttering audio file. Every episode is the real work — if it didn't happen, we don't say it happened.
+
+AI Generated</description>
+      <itunes:summary>A new show about what Kirk's AI actually did this week: nine podcasts in two days, magnetic dress-up farm animals, and surgery on a stuttering audio file. Every episode is the real work — if it didn't happen, we don't say it happened.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-d3748cf9-eaac-4f7c-9d39-91b585e4d248</guid>
+      <pubDate>Wed, 30 Sep 2026 20:43:26 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4c737f5b-b94a-4480-a643-978e12aaf2f3/ep-d3748cf9-eaac-4f7c-9d39-91b585e4d248.mp3" length="4951333" type="audio/mpeg" />
+      <itunes:duration>618</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

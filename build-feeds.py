@@ -118,6 +118,23 @@ SHOWS = [
         "link": f"{PAGES}/one-damn-thing-after-another.xml",
         "keywords": "why does this keep happening,root cause,current events,true crime,history,social issues,news analysis",
     },
+    {
+        # Source feed added Sept 30, 2026: pilot published.
+        "slug": "the-workshop",
+        "source": "https://muse.ai/podcasts/feed/1258569844016700/4c737f5b-b94a-4480-a643-978e12aaf2f3",
+        "category": "Technology",
+        "title": "The Workshop",
+        "description": (
+            "The Workshop is a behind-the-scenes show about what Kirk's AI "
+            "actually built and fixed this week: podcasts, laser designs, "
+            "research, trip plans, and the occasional audio surgery. Every "
+            "episode is the real work - if it didn't happen, we don't say it "
+            "happened."
+        ),
+        "cover": f"{PAGES}/the-workshop-cover.jpg",
+        "link": f"{PAGES}/the-workshop.xml",
+        "keywords": "artificial intelligence,AI assistant,behind the scenes,technology,how AI works",
+    },
 ]
 
 # Published item titles to rename (GUIDs/enclosures untouched).
