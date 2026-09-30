@@ -1,6 +1,6 @@
 name: Refresh podcast feeds
 
-# Rebuilds the 6 Apple-ready RSS feeds from the muse.ai source feeds every
+# Rebuilds the 7 Apple-ready RSS feeds from the muse.ai source feeds every
 # morning, so new episodes appear automatically. build-feeds.py is committed
 # in this repo (it used to be embedded as a heredoc, which silently never ran
 # because the indented terminator didn't close the heredoc). The XML files are
