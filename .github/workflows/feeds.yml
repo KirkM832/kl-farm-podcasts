@@ -1,54 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-1 of 4,816
-Your podcast feeds - 3 steps on GitHub, then Apple
-Inbox
-
-Medix <medix.amc@gmail.com>
-Attachments
-9:14 AM (19 minutes ago)
-to me
-
-Kirk,
-
-Your five Apple-ready feeds are built. They just need a public home, and you can do that in your browser - no codes needed from me.
-
-STEP 1 - Create the repo
-- Go to github.com, click the + (top right) -> New repository
-- Name: kl-farm-podcasts
-- Make it Public
-- Click Create repository
-
-STEP 2 - Add the workflow file
-- In the new repo, click Add file -> Create new file
-- Name the file exactly this: .github/workflows/feeds.yml
-- Open the attached feeds.yml on your computer, copy everything, paste it in
-- Click Commit changes
-
-STEP 3 - Run it and turn on web hosting
-- Click the Actions tab -> click Refresh podcast feeds -> Run workflow -> wait about a minute
-- You should see 5 .xml files appear in the repo
-- Go to Settings -> Pages -> Source: Deploy from a branch -> Branch: main, folder /(root) -> Save
-- Wait 1-2 minutes
-
-Your five feed links will then be:
-https://<your-github-username>.github.io/kl-farm-podcasts/today-with-kirk.xml
-https://<your-github-username>.github.io/kl-farm-podcasts/learning-under-pressure.xml
-https://<your-github-username>.github.io/kl-farm-podcasts/before-cullman.xml
-https://<your-github-username>.github.io/kl-farm-podcasts/the-spin-cycle.xml
-https://<your-github-username>.github.io/kl-farm-podcasts/lantern-stories.xml
-
-(Replace <your-github-username> with your actual GitHub username.)
-
-Paste each link into Apple Podcasts Connect instead of the muse.ai ones - one show per link - then group the five shows into your K&L Farm channel. The feeds rebuild themselves every morning, so new episodes appear automatically.
-
-Reply with your GitHub username when you are done and I will send the exact five links.
-
-- Shadow
- One attachment
-  •  Scanned by Gmail
 name: Refresh podcast feeds
 
 # Rebuilds the 5 Apple-ready RSS feeds from the muse.ai source feeds every
@@ -242,5 +191,3 @@ jobs:
           git add '*.xml'
           git diff --cached --quiet || git commit -m "Refresh podcast feeds"
           git push
-feeds.yml
-Displaying feeds.yml.
