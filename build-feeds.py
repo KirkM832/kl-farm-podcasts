@@ -11,7 +11,7 @@ Shows may override the source channel's title/description/cover/link via the
 optional keys below, and may restrict items to a title prefix (used for
 Big Sister Energy, whose episodes publish inside the Today with Kirk feed).
 
-Usage:  python3 build-feeds.py        (no arguments; refreshes all 7 files)
+Usage:  python3 build-feeds.py        (no arguments; refreshes all 8 files)
 Output: <slug>.xml files in this directory.
 
 Shows with "source": None have no platform feed yet (no episodes published);
@@ -100,6 +100,23 @@ SHOWS = [
         "cover": f"{PAGES}/how-we-got-here-cover.jpg",
         "link": f"{PAGES}/how-we-got-here.xml",
         "keywords": "history,lived history,ordinary people,ancient rome,world war 1,american history,true stories",
+    },
+    {
+        # Source feed added Sept 30, 2026: pilot published.
+        "slug": "one-damn-thing-after-another",
+        "source": "https://muse.ai/podcasts/feed/1258569844016700/4557e744-8f50-4930-a7c2-0ec2a86a1b7a",
+        "category": "Society & Culture",
+        "title": "One Damn Thing After Another",
+        "description": (
+            "One Damn Thing After Another starts with this week's news and "
+            "pulls the thread backward: the pattern, the original wound, the "
+            "fixes that failed, the forks where it could have broken the "
+            "cycle, and what would actually have to change. Why does this "
+            "keep happening?"
+        ),
+        "cover": f"{PAGES}/one-damn-thing-after-another-cover.jpg",
+        "link": f"{PAGES}/one-damn-thing-after-another.xml",
+        "keywords": "why does this keep happening,root cause,current events,true crime,history,social issues,news analysis",
     },
 ]
 

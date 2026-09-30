@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>One Damn Thing After Another</title>
+    <link>https://KirkM832.github.io/kl-farm-podcasts/one-damn-thing-after-another.xml</link>
+    <description>One Damn Thing After Another starts with this week's news and pulls the thread backward: the pattern, the original wound, the fixes that failed, the forks where it could have broken the cycle, and what would actually have to change. Why does this keep happening?</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>One Damn Thing After Another starts with this week's news and pulls the thread backward: the pattern, the original wound, the fixes that failed, the forks where it could have broken the cycle, and what would actually have to change. Why does this keep happening?</itunes:summary>
+    <itunes:keywords>why does this keep happening,root cause,current events,true crime,history,social issues,news analysis</itunes:keywords>
+    <itunes:image href="https://KirkM832.github.io/kl-farm-podcasts/one-damn-thing-after-another-cover.jpg" />
+    <item>
+      <title>One Damn Thing After Another: The Trial Before the Trial</title>
+      <description>Pilot episode. The Lindsay Clancy case — and why TikTok decides who's guilty before the trial ever starts. From the Lindbergh trial to Court TV to Depp v. Heard, the pattern keeps accelerating: one damn thing after another. Serious, curious, humane.
+
+AI Generated</description>
+      <itunes:summary>Pilot episode. The Lindsay Clancy case — and why TikTok decides who's guilty before the trial ever starts. From the Lindbergh trial to Court TV to Depp v. Heard, the pattern keeps accelerating: one damn thing after another. Serious, curious, humane.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-3c9286fb-629b-46ba-96f6-ac26bca2ef27</guid>
+      <pubDate>Wed, 30 Sep 2026 19:42:04 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4557e744-8f50-4930-a7c2-0ec2a86a1b7a/ep-3c9286fb-629b-46ba-96f6-ac26bca2ef27.mp3" length="13933861" type="audio/mpeg" />
+      <itunes:duration>1741</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
