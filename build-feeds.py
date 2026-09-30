@@ -58,6 +58,7 @@ SHOWS = [
         "slug": "the-spin-cycle",
         "source": "https://muse.ai/podcasts/feed/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb",
         "category": "News",
+        "cover": f"{PAGES}/the-spin-cycle-cover.jpg",
     },
     {
         "slug": "lantern-stories",
