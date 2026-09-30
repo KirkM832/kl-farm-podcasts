@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>How We Got Here</title>
+    <link>https://KirkM832.github.io/kl-farm-podcasts/how-we-got-here.xml</link>
+    <description>Ordinary people, extraordinary times - what it was really like to live through history's biggest moments. From gods and empires to trenches and technology: each episode opens with a broad era overview, then zooms into one individual's day - a Cullman farm boy in 1917, a flapper in 1920s Chicago, a Roman soldier in Judea - as history happens around them. Only verifiable history; dramatized scenes are labeled as reconstruction.</description>
+    <language>en</language>
+    <itunes:author>Kirk Moore</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirk Moore</itunes:name>
+      <itunes:email>medix.amc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="History" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Ordinary people, extraordinary times - what it was really like to live through history's biggest moments. From gods and empires to trenches and technology: each episode opens with a broad era overview, then zooms into one individual's day - a Cullman farm boy in 1917, a flapper in 1920s Chicago, a Roman soldier in Judea - as history happens around them. Only verifiable history; dramatized scenes are labeled as reconstruction.</itunes:summary>
+    <itunes:keywords>history,lived history,ordinary people,ancient rome,world war 1,american history,true stories</itunes:keywords>
+    <itunes:image href="https://KirkM832.github.io/kl-farm-podcasts/how-we-got-here-cover.jpg" />
+  </channel>
+</rss>

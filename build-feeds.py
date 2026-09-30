@@ -11,8 +11,15 @@ Shows may override the source channel's title/description/cover/link via the
 optional keys below, and may restrict items to a title prefix (used for
 Big Sister Energy, whose episodes publish inside the Today with Kirk feed).
 
-Usage:  python3 build-feeds.py        (no arguments; refreshes all 6 files)
+Usage:  python3 build-feeds.py        (no arguments; refreshes all 7 files)
 Output: <slug>.xml files in this directory.
+
+Shows with "source": None have no platform feed yet (no episodes published);
+the builder emits a channel-only feed (zero items) so the Apple-ready URL
+exists ahead of the first publish. Fill in the source URL after publishing.
+
+TITLE_REWRITES renames published item titles without touching GUIDs or
+enclosures, so Apple sees the same episode under its new title.
 
 After hosting is chosen, set BASE_URL below to the public base URL so the
 atom self-links point at the new feed locations, then re-run.
@@ -74,7 +81,33 @@ SHOWS = [
         "keywords": "teen advice,big sister advice,confidence for teens,teen girls,friendship,teen life,self esteem",
         "item_prefix": "Big Sister Energy",
     },
+    {
+        # No source feed yet: pilot not published. Emits channel-only XML until
+        # the first episode publishes; then add the platform feed URL here.
+        "slug": "how-we-got-here",
+        "source": None,
+        "category": "History",
+        "title": "How We Got Here",
+        "description": (
+            "Ordinary people, extraordinary times - what it was really like to "
+            "live through history's biggest moments. From gods and empires to "
+            "trenches and technology: each episode opens with a broad era "
+            "overview, then zooms into one individual's day - a Cullman farm "
+            "boy in 1917, a flapper in 1920s Chicago, a Roman soldier in "
+            "Judea - as history happens around them. Only verifiable history; "
+            "dramatized scenes are labeled as reconstruction."
+        ),
+        "cover": f"{PAGES}/how-we-got-here-cover.jpg",
+        "link": f"{PAGES}/how-we-got-here.xml",
+        "keywords": "history,lived history,ordinary people,ancient rome,world war 1,american history,true stories",
+    },
 ]
+
+# Published item titles to rename (GUIDs/enclosures untouched).
+TITLE_REWRITES = {
+    # Dominoes pilot collided with the new "How We Got Here" show title.
+    "Dominoes: How We Got Here": "Dominoes: The First Domino",
+}
 
 AUTHOR = "Kirk Moore"
 OWNER_EMAIL = "medix.amc@gmail.com"
@@ -106,12 +139,15 @@ def sub(parent, tag, text=None, attrib=None):
 
 
 def build(show):
-    raw = fetch(show["source"])
-    src = ET.fromstring(raw)
-    src_ch = src.find("channel")
+    src_ch = None
+    if show.get("source"):
+        raw = fetch(show["source"])
+        src = ET.fromstring(raw)
+        src_ch = src.find("channel")
+    # else: no source feed yet (pre-pilot) -> channel-only feed, zero items.
 
     def t(el, name):
-        n = el.find(name)
+        n = el.find(name) if el is not None else None
         return n.text if n is not None else None
 
     ET.register_namespace("itunes", ITUNES_NS)
@@ -121,18 +157,18 @@ def build(show):
     ch = ET.SubElement(rss, "channel")
 
     title = show.get("title") or t(src_ch, "title")
-    description = show.get("description") or t(src_ch, "description")
+    description = show.get("description") or t(src_ch, "description") or ""
     language = t(src_ch, "language") or "en"
     cover = show.get("cover")
     if not cover:
-        img_el = src_ch.find(f"{{{ITUNES_NS}}}image")
+        img_el = src_ch.find(f"{{{ITUNES_NS}}}image") if src_ch is not None else None
         if img_el is not None:
             cover = img_el.get("href")
 
     sub(ch, "title", title)
     # link: fall back to the source feed URL
-    atom_link = src_ch.find(f"{{{ATOM_NS}}}link")
-    link = show.get("link") or (atom_link.get("href") if atom_link is not None else show["source"])
+    atom_link = src_ch.find(f"{{{ATOM_NS}}}link") if src_ch is not None else None
+    link = show.get("link") or (atom_link.get("href") if atom_link is not None else show.get("source"))
     sub(ch, "link", link)
     sub(ch, "description", description)
     sub(ch, "language", language)
@@ -155,14 +191,16 @@ def build(show):
             "type": "application/rss+xml",
         })
 
-    items = src_ch.findall("item")
+    items = src_ch.findall("item") if src_ch is not None else []
     prefix = show.get("item_prefix")
     if prefix:
         items = [it for it in items if (t(it, "title") or "").startswith(prefix)]
 
     for item in items:
         it = ET.SubElement(ch, "item")
-        sub(it, "title", t(item, "title"))
+        item_title = t(item, "title")
+        item_title = TITLE_REWRITES.get(item_title, item_title)
+        sub(it, "title", item_title)
         desc = t(item, "description")
         sub(it, "description", desc)
         sub(it, f"{{{ITUNES_NS}}}summary", desc)
@@ -203,7 +241,8 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             f.write(xml)
         n_items = xml.count("<item>")
-        print(f"wrote {path} ({len(xml)} bytes, {n_items} items)")
+        note = "" if show.get("source") else " (channel only - no source feed yet)"
+        print(f"wrote {path} ({len(xml)} bytes, {n_items} items){note}")
 
 
 if __name__ == "__main__":
