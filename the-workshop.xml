@@ -26,8 +26,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-d3748cf9-eaac-4f7c-9d39-91b585e4d248</guid>
       <pubDate>Wed, 30 Sep 2026 20:43:26 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4c737f5b-b94a-4480-a643-978e12aaf2f3/ep-d3748cf9-eaac-4f7c-9d39-91b585e4d248.mp3" length="4951333" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-workshop/ep-d3748cf9-eaac-4f7c-9d39-91b585e4d248.mp3" length="4951333" type="audio/mpeg" />
       <itunes:duration>618</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>How the Podcasts Get Made</title>
+      <description>Ren asks how seven podcasts actually get made: the verifiable-info rule, the QR flyer that didn't scan, Apple pulling a show, moving 27 episodes to the Internet Archive, and the feedback loop that sends every miss back to the developers.
+
+AI Generated</description>
+      <itunes:summary>Ren asks how seven podcasts actually get made: the verifiable-info rule, the QR flyer that didn't scan, Apple pulling a show, moving 27 episodes to the Internet Archive, and the feedback loop that sends every miss back to the developers.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-0f7dedf4-7159-4e04-b87a-94073f3ad72f</guid>
+      <pubDate>Thu, 01 Oct 2026 19:46:50 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4c737f5b-b94a-4480-a643-978e12aaf2f3/ep-0f7dedf4-7159-4e04-b87a-94073f3ad72f.mp3" length="6189925" type="audio/mpeg" />
+      <itunes:duration>774</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
