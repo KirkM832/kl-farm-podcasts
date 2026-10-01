@@ -4,8 +4,11 @@
 The platform feeds are missing itunes:author, itunes:owner and itunes:category,
 which Apple Podcasts Connect validation requires. This script re-fetches each
 source feed and re-emits it with those tags added, preserving every item's
-title, description, pubDate, guid and enclosure URL verbatim (changing GUIDs
-or enclosure URLs would make Apple treat episodes as new/duplicates).
+title, description, pubDate and guid verbatim (changing GUIDs would make
+Apple treat episodes as new/duplicates). Enclosure URLs are rewritten from
+enclosure-overrides.json when present: episode MP3s live on permanent
+archive.org hosting, because the platform's enclosure links redirect to
+signed URLs that expire after ~48 hours.
 
 Shows may override the source channel's title/description/cover/link via the
 optional keys below, and may restrict items to a title prefix (used for
@@ -25,6 +28,7 @@ After hosting is chosen, set BASE_URL below to the public base URL so the
 atom self-links point at the new feed locations, then re-run.
 """
 
+import json
 import subprocess
 import xml.etree.ElementTree as ET
 
@@ -173,7 +177,7 @@ def sub(parent, tag, text=None, attrib=None):
     return el
 
 
-def build(show):
+def build(show, overrides=None):
     src_ch = None
     if show.get("source"):
         raw = fetch(show["source"])
@@ -246,8 +250,12 @@ def build(show):
         sub(it, "pubDate", t(item, "pubDate"))
         enc = item.find("enclosure")
         if enc is not None:
+            guid_text = guid_el.text.strip() if guid_el is not None and guid_el.text else None
+            enc_url = enc.get("url")
+            if guid_text and overrides and guid_text in overrides:
+                enc_url = overrides[guid_text]
             sub(it, "enclosure", attrib={
-                "url": enc.get("url"),
+                "url": enc_url,
                 "length": enc.get("length"),
                 "type": enc.get("type"),
             })
@@ -268,8 +276,10 @@ def build(show):
 def main():
     import os
     here = os.path.dirname(os.path.abspath(__file__))
+    ov_path = os.path.join(here, "enclosure-overrides.json")
+    overrides = json.load(open(ov_path)) if os.path.exists(ov_path) else {}
     for show in SHOWS:
-        xml = build(show)
+        xml = build(show, overrides)
         # sanity: re-parse what we wrote
         ET.fromstring(xml)
         path = os.path.join(here, f"{show['slug']}.xml")
