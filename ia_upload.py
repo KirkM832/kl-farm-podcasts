@@ -113,15 +113,15 @@ def ia_put(identifier, filename, filepath, title, access, secret):
     return r.stdout.strip(), r.stderr.strip(), body
 
 
-def ia_head_ok(identifier, filename, tries=5):
-    """Confirm the public download URL serves the file (allows IA a little time)."""
+def ia_head_ok(identifier, filename, tries=12):
+    """Confirm the public download URL serves the file (IA ingest can take minutes)."""
     url = "https://archive.org/download/%s/%s" % (identifier, filename)
     for _ in range(tries):
         r = sh(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
-                "-I", "--max-time", 30, url])
+                "-I", "-L", "--max-time", "30", url])
         if r.stdout.strip() == "200":
             return True
-        time.sleep(15)
+        time.sleep(30)
     return False
 
 
