@@ -1,0 +1,35 @@
+name: Upload episodes to Internet Archive
+
+# Moves new episode MP3s to permanent archive.org hosting and records the
+# stable download URLs in enclosure-overrides.json. The feeds.yml workflow
+# then rewrites each feed item's enclosure URL via build-feeds.py, so Apple
+# Podcasts always sees enclosures that never expire.
+#
+# Schedule: runs after the morning episodes have published and feeds.yml has
+# rebuilt the feeds (feeds.yml runs ~7:15 AM ET; this runs ~8:45 AM ET).
+
+on:
+  schedule:
+    - cron: "45 12 * * *"   # ~8:45 AM Eastern daily
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload new episodes to the Internet Archive
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+        run: python3 ia_upload.py
+
+      - name: Commit updated overrides
+        run: |
+          git config user.name "kl-farm-bot"
+          git config user.email "kl-farm-bot@users.noreply.github.com"
+          git add enclosure-overrides.json
+          git diff --cached --quiet || (git commit -m "Update IA enclosure overrides" && git push)
