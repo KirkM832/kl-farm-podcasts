@@ -20,6 +20,11 @@ download shows up as a red X -- never a fake green checkmark. After the
 canary, remaining episodes continue past individual failures, but ANY
 failure still makes the run exit 1 at the end.
 
+Link-check patience (fixed Oct 1, 2026): Archive.org can take 10+ minutes
+to publish the public download link after a PUT, so the post-upload check
+waits up to ~15 minutes instead of giving up at 6. Files already live on
+Archive.org are skipped, never re-uploaded, so re-runs resume cheaply.
+
 No license metadata is set on the Archive.org items (Kirk picks that later).
 """
 
@@ -113,8 +118,25 @@ def ia_put(identifier, filename, filepath, title, access, secret):
     return r.stdout.strip(), r.stderr.strip(), body
 
 
-def ia_head_ok(identifier, filename, tries=12):
-    """Confirm the public download URL serves the file (IA ingest can take minutes)."""
+def ia_file_live(identifier, filename):
+    """One quick HEAD check: is the public download URL already serving the file?
+
+    Used to skip re-uploading files that reached Archive.org on an earlier
+    run (the old link-checker sometimes gave up before IA published the
+    link, even though the file was fine). No retries, no sleeping.
+    """
+    url = "https://archive.org/download/%s/%s" % (identifier, filename)
+    r = sh(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
+            "-I", "-L", "--max-time", "30", url])
+    return r.stdout.strip() == "200"
+
+
+def ia_head_ok(identifier, filename, tries=30):
+    """Confirm the public download URL serves the file.
+
+    IA ingest can take 10+ minutes before the public link appears, so this
+    waits up to ~15 minutes (30 tries x 30s) before giving up.
+    """
     url = "https://archive.org/download/%s/%s" % (identifier, filename)
     for _ in range(tries):
         r = sh(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
@@ -187,11 +209,15 @@ def main():
 
     def upload_one(slug, identifier, show_title, guid, title, url, canary):
         """Returns (True, '') on success or (False, reason)."""
+        filename = safe_filename(guid)
+        final_url = "https://archive.org/download/%s/%s" % (identifier, filename)
+        if ia_file_live(identifier, filename):
+            print("[%s] already on Archive.org, skipping upload" % guid, flush=True)
+            return True, final_url
         tmp = "/tmp/%s.mp3" % re.sub(r"[^A-Za-z0-9_-]", "_", guid)
         ok, reason = download(url, tmp)
         if not ok:
             return False, "DOWNLOAD FAILED for %s (%s): %s" % (guid, title[:60], reason)
-        filename = safe_filename(guid)
         code, err, body = ia_put(identifier, filename, tmp,
                                  "%s: %s" % (show_title, title), access, secret)
         try:
@@ -209,7 +235,7 @@ def main():
             return False, ("UPLOAD PROBLEM for %s (%s): the file reached "
                            "Archive.org but the public link never came up." %
                            (guid, title[:60]))
-        return True, "https://archive.org/download/%s/%s" % (identifier, filename)
+        return True, final_url
 
     # ---- canary: first episode must work, or fail fast with a clear reason ----
     slug, identifier, show_title, guid, title, url = pending[0]
