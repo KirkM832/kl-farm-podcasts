@@ -80,16 +80,22 @@ def download(url, tmp):
 def ia_put(identifier, filename, filepath, title, access, secret):
     """PUT one file to the Internet Archive via its S3 API.
 
-    Returns (http_code, curl_stderr). NOTE: secrets travel in argv here;
-    GitHub-hosted runners are single-tenant per job, and the keys live in
-    repo Secrets otherwise. Acceptable here.
+    Returns (http_code, curl_stderr, response_body_snippet). NOTE: secrets
+    travel in argv here; GitHub-hosted runners are single-tenant per job,
+    and the keys live in repo Secrets otherwise. Acceptable here.
+
+    x-archive-auto-make-bucket:1 is REQUIRED on the first PUT for a new
+    identifier -- without it Archive.org answers 404 (NoSuchBucket)
+    instead of creating the item.
     """
     url = "https://s3.us.archive.org/%s/%s" % (identifier, filename)
+    body_file = "/tmp/ia_put_body.txt"
     cmd = [
-        "curl", "-sS", "-o", "/dev/null", "-w", "%{http_code}",
+        "curl", "-sS", "-o", body_file, "-w", "%{http_code}",
         "--max-time", "900", "--retry", "2",
         "-X", "PUT",
         "-H", "Authorization: LOW %s:%s" % (access, secret),
+        "-H", "x-archive-auto-make-bucket: 1",
         "-H", "x-archive-meta-title: %s" % ascii_header(title),
         "-H", "x-archive-meta-creator: %s" % CREATOR,
         "-H", "x-archive-meta-mediatype: audio",
@@ -98,7 +104,13 @@ def ia_put(identifier, filename, filepath, title, access, secret):
         url,
     ]
     r = sh(cmd)
-    return r.stdout.strip(), r.stderr.strip()
+    body = ""
+    try:
+        with open(body_file, "r", errors="replace") as f:
+            body = f.read(600)
+    except OSError:
+        pass
+    return r.stdout.strip(), r.stderr.strip(), body
 
 
 def ia_head_ok(identifier, filename, tries=5):
@@ -126,8 +138,8 @@ def put_error_advice(code):
 
 
 def main():
-    access = os.environ.get("IA_ACCESS_KEY", "")
-    secret = os.environ.get("IA_SECRET_KEY", "")
+    access = os.environ.get("IA_ACCESS_KEY", "").strip()
+    secret = os.environ.get("IA_SECRET_KEY", "").strip()
     if not access or not secret:
         print("IA_ACCESS_KEY / IA_SECRET_KEY are not set. "
               "Add them under repo Settings > Secrets > Actions.", file=sys.stderr)
@@ -180,8 +192,8 @@ def main():
         if not ok:
             return False, "DOWNLOAD FAILED for %s (%s): %s" % (guid, title[:60], reason)
         filename = safe_filename(guid)
-        code, err = ia_put(identifier, filename, tmp,
-                           "%s: %s" % (show_title, title), access, secret)
+        code, err, body = ia_put(identifier, filename, tmp,
+                                 "%s: %s" % (show_title, title), access, secret)
         try:
             os.remove(tmp)
         except OSError:
@@ -189,7 +201,10 @@ def main():
         if code != "200":
             advice = put_error_advice(code)
             detail = " curl said: %s" % err[:200] if err else ""
-            return False, "UPLOAD FAILED for %s (%s): %s%s" % (guid, title[:60], advice, detail)
+            srv = (" archive.org said: %s" % " ".join(body.split())[:300]
+                   if body.strip() else "")
+            return False, "UPLOAD FAILED for %s (%s): %s%s%s" % (
+                guid, title[:60], advice, detail, srv)
         if not ia_head_ok(identifier, filename):
             return False, ("UPLOAD PROBLEM for %s (%s): the file reached "
                            "Archive.org but the public link never came up." %
