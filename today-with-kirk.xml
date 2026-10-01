@@ -117,5 +117,19 @@ AI Generated</itunes:summary>
       <itunes:duration>2620</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>The AI Briefing: Google's Argon Gambit</title>
+      <description>Google unveils its new flagship Gemini 4 Argon, Anthropic's Sonnet 5.5 beats its big brother, Meta's Muse Charm brings AI to your keychain, and OpenAI's ChatGPT Space takes on the office suite.
+
+AI Generated</description>
+      <itunes:summary>Google unveils its new flagship Gemini 4 Argon, Anthropic's Sonnet 5.5 beats its big brother, Meta's Muse Charm brings AI to your keychain, and OpenAI's ChatGPT Space takes on the office suite.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9b1adbc3-2e18-4ebd-b076-b7651c74256c</guid>
+      <pubDate>Thu, 01 Oct 2026 11:21:38 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-9b1adbc3-2e18-4ebd-b076-b7651c74256c.mp3" length="3501925" type="audio/mpeg" />
+      <itunes:duration>437</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

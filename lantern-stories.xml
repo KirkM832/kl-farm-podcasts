@@ -33,5 +33,19 @@ AI Generated</itunes:summary>
       <itunes:duration>596</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: Wonder</title>
+      <description>Hazel retells R. J. Palacio's Wonder — the story of Auggie Pullman, kindness, and choosing kind — after a cozy open with Wren and Bea.
+
+AI Generated</description>
+      <itunes:summary>Hazel retells R. J. Palacio's Wonder — the story of Auggie Pullman, kindness, and choosing kind — after a cozy open with Wren and Bea.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-da22f414-3ce7-4780-88ff-205e812af244</guid>
+      <pubDate>Thu, 01 Oct 2026 00:26:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-da22f414-3ce7-4780-88ff-205e812af244.mp3" length="4947493" type="audio/mpeg" />
+      <itunes:duration>618</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
