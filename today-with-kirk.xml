@@ -145,5 +145,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1677</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>The AI Briefing: Your Next Assistant Has a Name</title>
+      <description>Oliver and Tilly on Artemus's AI companions, Use.ai hitting a million users, the brutal economics of free AI, the agent turf wars, and independent Argon benchmarks.
+
+AI Generated</description>
+      <itunes:summary>Oliver and Tilly on Artemus's AI companions, Use.ai hitting a million users, the brutal economics of free AI, the agent turf wars, and independent Argon benchmarks.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-a16b22bc-f0ba-4c1d-90cf-36b751101561</guid>
+      <pubDate>Fri, 02 Oct 2026 11:20:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-a16b22bc-f0ba-4c1d-90cf-36b751101561.mp3" length="4118821" type="audio/mpeg" />
+      <itunes:duration>514</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

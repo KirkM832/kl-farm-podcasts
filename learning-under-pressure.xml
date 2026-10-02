@@ -75,5 +75,19 @@ AI Generated</itunes:summary>
       <itunes:duration>442</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Element One — Remove Unhealthy Tissue</title>
+      <description>Casey kicks off a 9-part mini-series on Healogics' 9 Essential Elements for successful wound healing: why dead tissue has to go, what it looks like, and how debridement clears the way for healing.
+
+AI Generated</description>
+      <itunes:summary>Casey kicks off a 9-part mini-series on Healogics' 9 Essential Elements for successful wound healing: why dead tissue has to go, what it looks like, and how debridement clears the way for healing.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e1019584-74ee-4ad9-bdd4-b033a9bce982</guid>
+      <pubDate>Fri, 02 Oct 2026 10:34:56 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-e1019584-74ee-4ad9-bdd4-b033a9bce982.mp3" length="2457829" type="audio/mpeg" />
+      <itunes:duration>307</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

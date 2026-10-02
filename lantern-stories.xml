@@ -47,5 +47,19 @@ AI Generated</itunes:summary>
       <itunes:duration>618</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: A Wrinkle in Time</title>
+      <description>Meg Murry tessers across the universe to rescue her father and little brother — a gentle retelling of Madeleine L'Engle's classic about how being different is a superpower.
+
+AI Generated</description>
+      <itunes:summary>Meg Murry tessers across the universe to rescue her father and little brother — a gentle retelling of Madeleine L'Engle's classic about how being different is a superpower.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b7c8ea5b-c340-4a39-a634-6c9f9c37d894</guid>
+      <pubDate>Fri, 02 Oct 2026 00:21:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-b7c8ea5b-c340-4a39-a634-6c9f9c37d894.mp3" length="4593445" type="audio/mpeg" />
+      <itunes:duration>574</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
