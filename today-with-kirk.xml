@@ -155,8 +155,50 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-a16b22bc-f0ba-4c1d-90cf-36b751101561</guid>
       <pubDate>Fri, 02 Oct 2026 11:20:33 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-a16b22bc-f0ba-4c1d-90cf-36b751101561.mp3" length="4118821" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-a16b22bc-f0ba-4c1d-90cf-36b751101561.mp3" length="4118821" type="audio/mpeg" />
       <itunes:duration>514</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Book That Rewrote a Language</title>
+      <description>Milo and Ruby on the King James Bible: a paranoid king, 47 translators, and the book that accidentally set English-speaking Christianity free.
+
+AI Generated</description>
+      <itunes:summary>Milo and Ruby on the King James Bible: a paranoid king, 47 translators, and the book that accidentally set English-speaking Christianity free.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-4327e045-a363-4ac7-ba11-6df5046096b5</guid>
+      <pubDate>Fri, 02 Oct 2026 19:39:30 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4327e045-a363-4ac7-ba11-6df5046096b5.mp3" length="11974117" type="audio/mpeg" />
+      <itunes:duration>1496</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The AI Briefing: Apple's Privacy Warning Shot</title>
+      <description>Saturday October the third: Apple moves to flag AI agents that want full access to your Mac after Meta's Muse is accused of reading private messages; ChatGPT gets virtual try-on shopping; Claude Code gets mods; Perplexity launches a four-cents-per-million decision engine; Gemini Live gets Guided Vision for low-vision users; and Grok is still making deepfakes it promised to stop.
+
+AI Generated</description>
+      <itunes:summary>Saturday October the third: Apple moves to flag AI agents that want full access to your Mac after Meta's Muse is accused of reading private messages; ChatGPT gets virtual try-on shopping; Claude Code gets mods; Perplexity launches a four-cents-per-million decision engine; Gemini Live gets Guided Vision for low-vision users; and Grok is still making deepfakes it promised to stop.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-465e5fdd-d647-4475-a228-4d5b597ab9db</guid>
+      <pubDate>Sat, 03 Oct 2026 11:22:39 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-465e5fdd-d647-4475-a228-4d5b597ab9db.mp3" length="3005605" type="audio/mpeg" />
+      <itunes:duration>375</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: Before the Beginning</title>
+      <description>The entire history of everything in one episode: from the Big Bang's first domino through stars, planets, and four billion years of life on Earth, up to the dawn of farming.
+
+AI Generated</description>
+      <itunes:summary>The entire history of everything in one episode: from the Big Bang's first domino through stars, planets, and four billion years of life on Earth, up to the dawn of farming.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-f8e5304b-e943-4720-9c0e-ba2ca0893f0f</guid>
+      <pubDate>Sat, 03 Oct 2026 12:26:40 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-f8e5304b-e943-4720-9c0e-ba2ca0893f0f.mp3" length="15424741" type="audio/mpeg" />
+      <itunes:duration>1928</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

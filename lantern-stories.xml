@@ -57,8 +57,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b7c8ea5b-c340-4a39-a634-6c9f9c37d894</guid>
       <pubDate>Fri, 02 Oct 2026 00:21:15 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-b7c8ea5b-c340-4a39-a634-6c9f9c37d894.mp3" length="4593445" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-b7c8ea5b-c340-4a39-a634-6c9f9c37d894.mp3" length="4593445" type="audio/mpeg" />
       <itunes:duration>574</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lantern Stories: Holes</title>
+      <description>Wren and Bea share bottle smells and a capybara squishy, then Hazel tells a gentle retelling of Louis Sachar's Holes — a boy, a desert, and a promise finally kept — closing with the nightly wind-down.
+
+AI Generated</description>
+      <itunes:summary>Wren and Bea share bottle smells and a capybara squishy, then Hazel tells a gentle retelling of Louis Sachar's Holes — a boy, a desert, and a promise finally kept — closing with the nightly wind-down.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-df60fb7c-1f59-4e2a-b1fc-dd48059b781f</guid>
+      <pubDate>Sat, 03 Oct 2026 00:31:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-df60fb7c-1f59-4e2a-b1fc-dd48059b781f.mp3" length="6783781" type="audio/mpeg" />
+      <itunes:duration>847</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
