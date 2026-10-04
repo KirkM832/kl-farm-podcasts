@@ -99,8 +99,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-5cae40f4-3f67-413e-b553-4c43cff29426</guid>
       <pubDate>Sat, 03 Oct 2026 10:32:38 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-5cae40f4-3f67-413e-b553-4c43cff29426.mp3" length="2468581" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-5cae40f4-3f67-413e-b553-4c43cff29426.mp3" length="2468581" type="audio/mpeg" />
       <itunes:duration>308</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Element Three — Ensure Bloodflow</title>
+      <description>Casey breaks down element three of Healogics' nine essential elements: why a wound cannot heal without good bloodflow, how staff spot sluggish circulation, and what they can do about it.
+
+AI Generated</description>
+      <itunes:summary>Casey breaks down element three of Healogics' nine essential elements: why a wound cannot heal without good bloodflow, how staff spot sluggish circulation, and what they can do about it.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-8e1624b0-a7da-4ca0-9675-cb2f7b1dae4a</guid>
+      <pubDate>Sun, 04 Oct 2026 10:33:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-8e1624b0-a7da-4ca0-9675-cb2f7b1dae4a.mp3" length="2634277" type="audio/mpeg" />
+      <itunes:duration>329</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

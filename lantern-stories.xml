@@ -71,8 +71,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-df60fb7c-1f59-4e2a-b1fc-dd48059b781f</guid>
       <pubDate>Sat, 03 Oct 2026 00:31:11 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-df60fb7c-1f59-4e2a-b1fc-dd48059b781f.mp3" length="6783781" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-df60fb7c-1f59-4e2a-b1fc-dd48059b781f.mp3" length="6783781" type="audio/mpeg" />
       <itunes:duration>847</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lantern Stories: Balto's Brave Run</title>
+      <description>Hazel tells the true story of Balto and the nineteen twenty-five serum run to Nome, where brave sled dog teams raced through a blizzard to save a town — plus Wren and Bea's cozy open with a brand-new question of the night, an axolotl squishy named Pudding, and penguin-sweater news.
+
+AI Generated</description>
+      <itunes:summary>Hazel tells the true story of Balto and the nineteen twenty-five serum run to Nome, where brave sled dog teams raced through a blizzard to save a town — plus Wren and Bea's cozy open with a brand-new question of the night, an axolotl squishy named Pudding, and penguin-sweater news.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c01092e2-b233-44b6-9769-1e3c32280b53</guid>
+      <pubDate>Sun, 04 Oct 2026 00:22:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-c01092e2-b233-44b6-9769-1e3c32280b53.mp3" length="6159013" type="audio/mpeg" />
+      <itunes:duration>769</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
