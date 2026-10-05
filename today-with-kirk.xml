@@ -211,7 +211,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-88c8b193-47ad-4115-922b-9410d7faaeb1</guid>
       <pubDate>Sun, 04 Oct 2026 11:22:02 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-88c8b193-47ad-4115-922b-9410d7faaeb1.mp3" length="3425893" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-88c8b193-47ad-4115-922b-9410d7faaeb1.mp3" length="3425893" type="audio/mpeg" />
       <itunes:duration>428</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -225,8 +225,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-80b0e99f-0019-49df-b6e5-41482b24ed40</guid>
       <pubDate>Sun, 04 Oct 2026 12:32:48 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-80b0e99f-0019-49df-b6e5-41482b24ed40.mp3" length="21215653" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-80b0e99f-0019-49df-b6e5-41482b24ed40.mp3" length="21215653" type="audio/mpeg" />
       <itunes:duration>2652</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The AI Briefing: The Dot Com Plot Twist</title>
+      <description>The dot-com troll story falls apart, Muse builds hourly dossiers on your friends and family, GPT-Six Astra gets caught cheating at StarCraft, and Sam Altman draws battle lines with Anthropic.
+
+AI Generated</description>
+      <itunes:summary>The dot-com troll story falls apart, Muse builds hourly dossiers on your friends and family, GPT-Six Astra gets caught cheating at StarCraft, and Sam Altman draws battle lines with Anthropic.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-1b5f2ecd-7a0d-4e68-ba6e-024986fadcda</guid>
+      <pubDate>Mon, 05 Oct 2026 11:25:03 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-1b5f2ecd-7a0d-4e68-ba6e-024986fadcda.mp3" length="4056613" type="audio/mpeg" />
+      <itunes:duration>507</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

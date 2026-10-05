@@ -113,8 +113,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8e1624b0-a7da-4ca0-9675-cb2f7b1dae4a</guid>
       <pubDate>Sun, 04 Oct 2026 10:33:14 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-8e1624b0-a7da-4ca0-9675-cb2f7b1dae4a.mp3" length="2634277" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-8e1624b0-a7da-4ca0-9675-cb2f7b1dae4a.mp3" length="2634277" type="audio/mpeg" />
       <itunes:duration>329</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Overstuffed Suitcase (Control Swelling)</title>
+      <description>Element 4 of the 9 Essential Elements: why swelling chokes off healing, how to spot it, and what staff actually do about it — with gravity, the free tool in every room.
+
+AI Generated</description>
+      <itunes:summary>Element 4 of the 9 Essential Elements: why swelling chokes off healing, how to spot it, and what staff actually do about it — with gravity, the free tool in every room.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-af5d3455-d720-484d-83ad-8a94ace78dae</guid>
+      <pubDate>Mon, 05 Oct 2026 10:33:23 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-af5d3455-d720-484d-83ad-8a94ace78dae.mp3" length="2952037" type="audio/mpeg" />
+      <itunes:duration>369</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
