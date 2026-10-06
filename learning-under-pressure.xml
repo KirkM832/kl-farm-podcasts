@@ -127,8 +127,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-af5d3455-d720-484d-83ad-8a94ace78dae</guid>
       <pubDate>Mon, 05 Oct 2026 10:33:23 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-af5d3455-d720-484d-83ad-8a94ace78dae.mp3" length="2952037" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-af5d3455-d720-484d-83ad-8a94ace78dae.mp3" length="2952037" type="audio/mpeg" />
       <itunes:duration>369</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Good Red (Encourage Healthy Tissue)</title>
+      <description>Element five of the nine essential elements: meet granulation tissue, the raspberry-red sign a wound is healing, and learn to spot the good red, protect it, and chart it like a pro.
+
+AI Generated</description>
+      <itunes:summary>Element five of the nine essential elements: meet granulation tissue, the raspberry-red sign a wound is healing, and learn to spot the good red, protect it, and chart it like a pro.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-5ef0ac47-9e64-49dd-b489-adbbc5da9fee</guid>
+      <pubDate>Tue, 06 Oct 2026 10:33:06 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-5ef0ac47-9e64-49dd-b489-adbbc5da9fee.mp3" length="3055909" type="audio/mpeg" />
+      <itunes:duration>381</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

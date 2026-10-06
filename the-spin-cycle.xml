@@ -89,5 +89,19 @@ AI Generated</itunes:summary>
       <itunes:duration>570</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>The Spin Cycle: Foreign Meddling or Election Grab?</title>
+      <description>Gus and June wash today's claims of foreign election meddling — plus the five-thousand-dollar check promise that keeps getting bigger.
+
+AI Generated</description>
+      <itunes:summary>Gus and June wash today's claims of foreign election meddling — plus the five-thousand-dollar check promise that keeps getting bigger.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b46775d0-c7a1-4e67-98ec-60a7473b6800</guid>
+      <pubDate>Mon, 05 Oct 2026 16:29:50 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-b46775d0-c7a1-4e67-98ec-60a7473b6800.mp3" length="4415653" type="audio/mpeg" />
+      <itunes:duration>551</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
