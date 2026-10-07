@@ -285,5 +285,33 @@ AI Generated</itunes:summary>
       <itunes:duration>429</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Bean That Woke Up the World</title>
+      <description>From Kaldi's dancing goats to the coffeehouses that built the stock market: the bean that kept monks awake, fueled revolutions, and invented the coffee break.
+
+AI Generated</description>
+      <itunes:summary>From Kaldi's dancing goats to the coffeehouses that built the stock market: the bean that kept monks awake, fueled revolutions, and invented the coffee break.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-81f9c830-774e-4a3f-ae7e-4a200970d640</guid>
+      <pubDate>Tue, 06 Oct 2026 12:24:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-81f9c830-774e-4a3f-ae7e-4a200970d640.mp3" length="13340389" type="audio/mpeg" />
+      <itunes:duration>1668</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The AI Briefing: Wall Street's 27 Billion Dollar Bet on Muse</title>
+      <description>Citi says Muse could be a twenty-seven billion dollar business by twenty thirty, Anthropic's IPO prospectus shows the money, and OpenAI starts invisibly watermarking in Europe.
+
+AI Generated</description>
+      <itunes:summary>Citi says Muse could be a twenty-seven billion dollar business by twenty thirty, Anthropic's IPO prospectus shows the money, and OpenAI starts invisibly watermarking in Europe.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b7c9234f-0c6c-4e10-b671-a3864c908538</guid>
+      <pubDate>Wed, 07 Oct 2026 11:21:38 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-b7c9234f-0c6c-4e10-b671-a3864c908538.mp3" length="3131365" type="audio/mpeg" />
+      <itunes:duration>391</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

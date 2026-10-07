@@ -103,5 +103,19 @@ AI Generated</itunes:summary>
       <itunes:duration>687</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: The Lady Who Welcomes Everyone</title>
+      <description>Wren and Bea share a flying-bed question, a boba squishy named Tappy, and library dogs who listen — then Hazel tells the true story of the Statue of Liberty.
+
+AI Generated</description>
+      <itunes:summary>Wren and Bea share a flying-bed question, a boba squishy named Tappy, and library dogs who listen — then Hazel tells the true story of the Statue of Liberty.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-ef65ecbd-ef78-4502-8b8c-1e08da78904c</guid>
+      <pubDate>Wed, 07 Oct 2026 00:20:02 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-ef65ecbd-ef78-4502-8b8c-1e08da78904c.mp3" length="5634085" type="audio/mpeg" />
+      <itunes:duration>704</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
