@@ -117,5 +117,19 @@ AI Generated</itunes:summary>
       <itunes:duration>704</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: The Lightning Thief</title>
+      <description>Wren and Bea light their lanterns and share a talking-animal dinner question, a cloud squishy named Nimbus, and a baby giraffe who made new friends — then Hazel gently retells Rick Riordan's The Lightning Thief, where Percy Jackson learns the things that make him different are secretly his strengths.
+
+AI Generated</description>
+      <itunes:summary>Wren and Bea light their lanterns and share a talking-animal dinner question, a cloud squishy named Nimbus, and a baby giraffe who made new friends — then Hazel gently retells Rick Riordan's The Lightning Thief, where Percy Jackson learns the things that make him different are secretly his strengths.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-107eb1b3-3a7f-43ef-8aee-49adf28fe5eb</guid>
+      <pubDate>Thu, 08 Oct 2026 00:23:43 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-107eb1b3-3a7f-43ef-8aee-49adf28fe5eb.mp3" length="6683941" type="audio/mpeg" />
+      <itunes:duration>835</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
