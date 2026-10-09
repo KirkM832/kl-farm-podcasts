@@ -131,5 +131,19 @@ AI Generated</itunes:summary>
       <itunes:duration>835</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: The Giver</title>
+      <description>Wren and Bea share a magical garden question, Buttons the mushroom squishy, and kindness stones on a walking path — then Hazel gently retells Lois Lowry's The Giver, where Jonas learns to see colors, hear music, and discovers that love is a gift we pass along.
+
+AI Generated</description>
+      <itunes:summary>Wren and Bea share a magical garden question, Buttons the mushroom squishy, and kindness stones on a walking path — then Hazel gently retells Lois Lowry's The Giver, where Jonas learns to see colors, hear music, and discovers that love is a gift we pass along.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b19da187-c173-4bd8-ba3c-a39d2e19ee78</guid>
+      <pubDate>Fri, 09 Oct 2026 00:33:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-b19da187-c173-4bd8-ba3c-a39d2e19ee78.mp3" length="10569253" type="audio/mpeg" />
+      <itunes:duration>1321</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

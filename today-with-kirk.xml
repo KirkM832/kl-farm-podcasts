@@ -253,7 +253,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b9af43a7-3a4f-4c20-8ec8-4a3c23a44ccb</guid>
       <pubDate>Mon, 05 Oct 2026 12:25:43 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-b9af43a7-3a4f-4c20-8ec8-4a3c23a44ccb.mp3" length="12434341" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-b9af43a7-3a4f-4c20-8ec8-4a3c23a44ccb.mp3" length="12434341" type="audio/mpeg" />
       <itunes:duration>1554</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -339,6 +339,20 @@ AI Generated</itunes:summary>
       <pubDate>Thu, 08 Oct 2026 11:20:38 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-48e70ca0-9dc5-416d-a3d5-2393df1ee5f7.mp3" length="3642469" type="audio/mpeg" />
       <itunes:duration>455</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Prophet of the Burned-Over District</title>
+      <description>Joseph Smith, the golden plates, and the founding of the Mormon movement — part one of two, ending with a teaser for the great trek west.
+
+AI Generated</description>
+      <itunes:summary>Joseph Smith, the golden plates, and the founding of the Mormon movement — part one of two, ending with a teaser for the great trek west.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-a1bb0a19-b846-4a47-854a-76da0ba33242</guid>
+      <pubDate>Thu, 08 Oct 2026 12:27:28 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-a1bb0a19-b846-4a47-854a-76da0ba33242.mp3" length="13923109" type="audio/mpeg" />
+      <itunes:duration>1740</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

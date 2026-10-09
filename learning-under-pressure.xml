@@ -173,5 +173,19 @@ AI Generated</itunes:summary>
       <itunes:duration>365</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: The Whole Story (Address Other Health Concerns)</title>
+      <description>Element 8 of the 9 Essential Elements — why blood sugar, smoking, protein, medicines, sleep, and stress matter for wound healing, and how staff ask, listen, document, and connect the whole patient to care.
+
+AI Generated</description>
+      <itunes:summary>Element 8 of the 9 Essential Elements — why blood sugar, smoking, protein, medicines, sleep, and stress matter for wound healing, and how staff ask, listen, document, and connect the whole patient to care.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-181048ca-e734-4086-ba94-04789f6ae368</guid>
+      <pubDate>Fri, 09 Oct 2026 10:34:28 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-181048ca-e734-4086-ba94-04789f6ae368.mp3" length="2376613" type="audio/mpeg" />
+      <itunes:duration>297</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
