@@ -145,5 +145,19 @@ AI Generated</itunes:summary>
       <itunes:duration>543</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>The Spin Cycle: The Prize and the Penalty</title>
+      <description>Norway gives the Nobel Peace Prize to a former Hague judge in the morning, and Washington sanctions the court itself by the afternoon. What each side says, what verifiably happened, and the payroll part nobody mentions.
+
+AI Generated</description>
+      <itunes:summary>Norway gives the Nobel Peace Prize to a former Hague judge in the morning, and Washington sanctions the court itself by the afternoon. What each side says, what verifiably happened, and the payroll part nobody mentions.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-6b82a89a-fb88-42f3-82e3-ed6254b083e3</guid>
+      <pubDate>Fri, 09 Oct 2026 16:55:07 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-6b82a89a-fb88-42f3-82e3-ed6254b083e3.mp3" length="4570405" type="audio/mpeg" />
+      <itunes:duration>571</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

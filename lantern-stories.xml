@@ -145,5 +145,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1321</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Lantern Stories: Number the Stars</title>
+      <description>Annemarie Johansen helps keep her best friend Ellen safe in Copenhagen, in a gentle retelling of Lois Lowry's Number the Stars.
+
+AI Generated</description>
+      <itunes:summary>Annemarie Johansen helps keep her best friend Ellen safe in Copenhagen, in a gentle retelling of Lois Lowry's Number the Stars.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-167beae5-5484-4118-8c9d-d56a472ec744</guid>
+      <pubDate>Sat, 10 Oct 2026 00:31:24 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-167beae5-5484-4118-8c9d-d56a472ec744.mp3" length="10308709" type="audio/mpeg" />
+      <itunes:duration>1288</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

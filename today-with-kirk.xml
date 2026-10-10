@@ -355,5 +355,33 @@ AI Generated</itunes:summary>
       <itunes:duration>1740</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>The AI Briefing: Your New Coworker Has an Email Address</title>
+      <description>Google gives Gemini coworker agents their own email addresses, Claude builds live dashboards and animations, ChatGPT plans college applications, and Copilot learns your laptop.
+
+AI Generated</description>
+      <itunes:summary>Google gives Gemini coworker agents their own email addresses, Claude builds live dashboards and animations, ChatGPT plans college applications, and Copilot learns your laptop.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-13863298-65e6-4227-a899-e05eaa4610ef</guid>
+      <pubDate>Fri, 09 Oct 2026 11:59:06 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-13863298-65e6-4227-a899-e05eaa4610ef.mp3" length="3687973" type="audio/mpeg" />
+      <itunes:duration>460</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Saints Who Walked to Zion</title>
+      <description>Brigham Young leads the Mormon exodus west to Salt Lake — handcarts, polygamy, the Manifesto, and the modern dominoes of genealogy and missions.
+
+AI Generated</description>
+      <itunes:summary>Brigham Young leads the Mormon exodus west to Salt Lake — handcarts, polygamy, the Manifesto, and the modern dominoes of genealogy and missions.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9b9271b7-dd0c-40b0-b974-515016a4f362</guid>
+      <pubDate>Fri, 09 Oct 2026 12:30:34 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-9b9271b7-dd0c-40b0-b974-515016a4f362.mp3" length="15494053" type="audio/mpeg" />
+      <itunes:duration>1936</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
