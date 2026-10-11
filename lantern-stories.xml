@@ -113,7 +113,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-ef65ecbd-ef78-4502-8b8c-1e08da78904c</guid>
       <pubDate>Wed, 07 Oct 2026 00:20:02 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-ef65ecbd-ef78-4502-8b8c-1e08da78904c.mp3" length="5634085" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-ef65ecbd-ef78-4502-8b8c-1e08da78904c.mp3" length="5634085" type="audio/mpeg" />
       <itunes:duration>704</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -127,7 +127,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-107eb1b3-3a7f-43ef-8aee-49adf28fe5eb</guid>
       <pubDate>Thu, 08 Oct 2026 00:23:43 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-107eb1b3-3a7f-43ef-8aee-49adf28fe5eb.mp3" length="6683941" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-107eb1b3-3a7f-43ef-8aee-49adf28fe5eb.mp3" length="6683941" type="audio/mpeg" />
       <itunes:duration>835</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -141,7 +141,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b19da187-c173-4bd8-ba3c-a39d2e19ee78</guid>
       <pubDate>Fri, 09 Oct 2026 00:33:14 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-b19da187-c173-4bd8-ba3c-a39d2e19ee78.mp3" length="10569253" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-b19da187-c173-4bd8-ba3c-a39d2e19ee78.mp3" length="10569253" type="audio/mpeg" />
       <itunes:duration>1321</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -155,8 +155,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-167beae5-5484-4118-8c9d-d56a472ec744</guid>
       <pubDate>Sat, 10 Oct 2026 00:31:24 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-167beae5-5484-4118-8c9d-d56a472ec744.mp3" length="10308709" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-lantern-stories/ep-167beae5-5484-4118-8c9d-d56a472ec744.mp3" length="10308709" type="audio/mpeg" />
       <itunes:duration>1288</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lantern Stories: Louis Braille and the Dots That Learned to Read</title>
+      <description>Hazel tells the gentle true story of Louis Braille, the curious boy whose six little dots taught the world's fingertips to read — plus Wren and Bea's cozy open with squishy-of-the-week Pip the fox.
+
+AI Generated</description>
+      <itunes:summary>Hazel tells the gentle true story of Louis Braille, the curious boy whose six little dots taught the world's fingertips to read — plus Wren and Bea's cozy open with squishy-of-the-week Pip the fox.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-5c61b3ca-52d0-4410-b1e0-bdd59c9041bc</guid>
+      <pubDate>Sun, 11 Oct 2026 00:35:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4908ca32-a69a-41a9-bd1c-b618bb1f8340/ep-5c61b3ca-52d0-4410-b1e0-bdd59c9041bc.mp3" length="9640357" type="audio/mpeg" />
+      <itunes:duration>1205</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

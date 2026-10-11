@@ -99,7 +99,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b46775d0-c7a1-4e67-98ec-60a7473b6800</guid>
       <pubDate>Mon, 05 Oct 2026 16:29:50 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-b46775d0-c7a1-4e67-98ec-60a7473b6800.mp3" length="4415653" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-b46775d0-c7a1-4e67-98ec-60a7473b6800.mp3" length="4415653" type="audio/mpeg" />
       <itunes:duration>551</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -113,7 +113,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-605d1b25-0ab9-4840-8ac0-61b64d958d70</guid>
       <pubDate>Tue, 06 Oct 2026 16:25:15 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-605d1b25-0ab9-4840-8ac0-61b64d958d70.mp3" length="3291685" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-605d1b25-0ab9-4840-8ac0-61b64d958d70.mp3" length="3291685" type="audio/mpeg" />
       <itunes:duration>411</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -127,7 +127,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-f3e96bac-21ad-4b70-869e-0dc917417418</guid>
       <pubDate>Wed, 07 Oct 2026 16:23:48 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-f3e96bac-21ad-4b70-869e-0dc917417418.mp3" length="3276709" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-f3e96bac-21ad-4b70-869e-0dc917417418.mp3" length="3276709" type="audio/mpeg" />
       <itunes:duration>409</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -141,7 +141,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-bd48f120-3bdc-4792-8cb6-4fc2e9485771</guid>
       <pubDate>Thu, 08 Oct 2026 16:31:53 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-bd48f120-3bdc-4792-8cb6-4fc2e9485771.mp3" length="4346533" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-bd48f120-3bdc-4792-8cb6-4fc2e9485771.mp3" length="4346533" type="audio/mpeg" />
       <itunes:duration>543</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -155,8 +155,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-6b82a89a-fb88-42f3-82e3-ed6254b083e3</guid>
       <pubDate>Fri, 09 Oct 2026 16:55:07 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-6b82a89a-fb88-42f3-82e3-ed6254b083e3.mp3" length="4570405" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-6b82a89a-fb88-42f3-82e3-ed6254b083e3.mp3" length="4570405" type="audio/mpeg" />
       <itunes:duration>571</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Spin Cycle: The Russian Refill</title>
+      <description>Washington waives its own Russia sanctions to import Putin's diesel three weeks before the midterms — Gus and June run the deal, the outrage, and the experts' ten-cent forecast through the wash.
+
+AI Generated</description>
+      <itunes:summary>Washington waives its own Russia sanctions to import Putin's diesel three weeks before the midterms — Gus and June run the deal, the outrage, and the experts' ten-cent forecast through the wash.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-3bb592a8-2b60-4b34-9d50-1141a88ac112</guid>
+      <pubDate>Sat, 10 Oct 2026 16:29:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-3bb592a8-2b60-4b34-9d50-1141a88ac112.mp3" length="4931749" type="audio/mpeg" />
+      <itunes:duration>616</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
