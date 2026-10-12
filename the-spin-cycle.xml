@@ -169,8 +169,36 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-3bb592a8-2b60-4b34-9d50-1141a88ac112</guid>
       <pubDate>Sat, 10 Oct 2026 16:29:32 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-3bb592a8-2b60-4b34-9d50-1141a88ac112.mp3" length="4931749" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-the-spin-cycle/ep-3bb592a8-2b60-4b34-9d50-1141a88ac112.mp3" length="4931749" type="audio/mpeg" />
       <itunes:duration>616</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Spin Cycle: The Livestream Execution</title>
+      <description>The Pentagon wants to livestream a firing squad execution on December the third — a first in American history. Gus and June run the spectacle, the spin, and the presidential yes-no-maybe through the wash, plus the Justice Department's antitrust probe of five television networks.
+
+AI Generated</description>
+      <itunes:summary>The Pentagon wants to livestream a firing squad execution on December the third — a first in American history. Gus and June run the spectacle, the spin, and the presidential yes-no-maybe through the wash, plus the Justice Department's antitrust probe of five television networks.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e8b592bb-19df-4e01-8e0a-65a5f65be41c</guid>
+      <pubDate>Sun, 11 Oct 2026 16:25:13 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-e8b592bb-19df-4e01-8e0a-65a5f65be41c.mp3" length="4000165" type="audio/mpeg" />
+      <itunes:duration>500</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Spin Cycle: The Judge Changes the Channel</title>
+      <description>Gus and June on the judge who blocked the taxpayer-funded Trump TV ads — plus a farewell announcement.
+
+AI Generated</description>
+      <itunes:summary>Gus and June on the judge who blocked the taxpayer-funded Trump TV ads — plus a farewell announcement.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-d0a8fac1-db5a-4d2d-944b-52ed8d8ef184</guid>
+      <pubDate>Mon, 12 Oct 2026 10:33:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/b972c63d-5f58-45af-9b24-01c756f1bfdb/ep-d0a8fac1-db5a-4d2d-944b-52ed8d8ef184.mp3" length="3096997" type="audio/mpeg" />
+      <itunes:duration>387</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
