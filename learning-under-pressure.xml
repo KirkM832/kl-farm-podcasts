@@ -211,8 +211,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-adb50a3d-e21f-4903-8540-2c9525536eb1</guid>
       <pubDate>Mon, 12 Oct 2026 10:40:48 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-adb50a3d-e21f-4903-8540-2c9525536eb1.mp3" length="2245285" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-adb50a3d-e21f-4903-8540-2c9525536eb1.mp3" length="2245285" type="audio/mpeg" />
       <itunes:duration>280</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Why We Fight to Save the Toe</title>
+      <description>The amputation cascade — why saving one toe matters so much. Verified five-year mortality numbers, Dr. Hamil's baker-seamstress-surgeon saying, and how the center's chamber, offloading, and wound care stop the dominoes.
+
+AI Generated</description>
+      <itunes:summary>The amputation cascade — why saving one toe matters so much. Verified five-year mortality numbers, Dr. Hamil's baker-seamstress-surgeon saying, and how the center's chamber, offloading, and wound care stop the dominoes.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-bd10a8e7-2164-4f6b-a714-cdce69437268</guid>
+      <pubDate>Tue, 13 Oct 2026 10:33:38 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-bd10a8e7-2164-4f6b-a714-cdce69437268.mp3" length="3184549" type="audio/mpeg" />
+      <itunes:duration>398</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -421,7 +421,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8b072eb6-d866-438c-a00e-b198a97fbf23</guid>
       <pubDate>Sun, 11 Oct 2026 11:23:33 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8b072eb6-d866-438c-a00e-b198a97fbf23.mp3" length="3626341" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-8b072eb6-d866-438c-a00e-b198a97fbf23.mp3" length="3626341" type="audio/mpeg" />
       <itunes:duration>453</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -435,7 +435,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-681ffdeb-19a7-4685-aec0-8d323b1397fe</guid>
       <pubDate>Sun, 11 Oct 2026 12:38:07 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-681ffdeb-19a7-4685-aec0-8d323b1397fe.mp3" length="15873637" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-681ffdeb-19a7-4685-aec0-8d323b1397fe.mp3" length="15873637" type="audio/mpeg" />
       <itunes:duration>1984</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -449,8 +449,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-6fa60369-f00f-4329-8cb6-7751799b9c6d</guid>
       <pubDate>Mon, 12 Oct 2026 10:31:31 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-6fa60369-f00f-4329-8cb6-7751799b9c6d.mp3" length="2848741" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-6fa60369-f00f-4329-8cb6-7751799b9c6d.mp3" length="2848741" type="audio/mpeg" />
       <itunes:duration>356</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Formula That Leveled the World</title>
+      <description>Milo and Ruby trace gunpowder's twelve-hundred-year chain: Taoist alchemists chasing immortality, cannons toppling Constantinople, three gunpowder empires, Guy Fawkes, dynamite, and the dawn of the atomic age.
+
+AI Generated</description>
+      <itunes:summary>Milo and Ruby trace gunpowder's twelve-hundred-year chain: Taoist alchemists chasing immortality, cannons toppling Constantinople, three gunpowder empires, Guy Fawkes, dynamite, and the dawn of the atomic age.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-395f7a3f-611a-4fad-8222-b9968fad97a5</guid>
+      <pubDate>Mon, 12 Oct 2026 12:30:07 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-395f7a3f-611a-4fad-8222-b9968fad97a5.mp3" length="17190565" type="audio/mpeg" />
+      <itunes:duration>2148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
