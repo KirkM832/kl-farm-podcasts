@@ -467,5 +467,19 @@ AI Generated</itunes:summary>
       <itunes:duration>2148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Spice That Built Empires</title>
+      <description>How nutmeg was once worth more than Manhattan — the spice trade's wild domino chain from Rome's pepper obsession to the Banda massacre, the Opium Wars, and your kitchen.
+
+AI Generated</description>
+      <itunes:summary>How nutmeg was once worth more than Manhattan — the spice trade's wild domino chain from Rome's pepper obsession to the Banda massacre, the Opium Wars, and your kitchen.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7879fca6-f2e2-4c80-986b-07719e33404a</guid>
+      <pubDate>Tue, 13 Oct 2026 12:24:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-7879fca6-f2e2-4c80-986b-07719e33404a.mp3" length="15070309" type="audio/mpeg" />
+      <itunes:duration>1883</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

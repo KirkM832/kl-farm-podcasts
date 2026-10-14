@@ -229,5 +229,19 @@ AI Generated</itunes:summary>
       <itunes:duration>398</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: The Mighty Sponge (Negative Pressure Wound Therapy)</title>
+      <description>Casey explains the wound vac in plain English: what negative pressure wound therapy does, the FDA's hard stops, and what staff watch for at every dressing change.
+
+AI Generated</description>
+      <itunes:summary>Casey explains the wound vac in plain English: what negative pressure wound therapy does, the FDA's hard stops, and what staff watch for at every dressing change.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-fcdcdda0-7372-46a3-a7b6-27444966e5e4</guid>
+      <pubDate>Wed, 14 Oct 2026 10:34:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-fcdcdda0-7372-46a3-a7b6-27444966e5e4.mp3" length="2018149" type="audio/mpeg" />
+      <itunes:duration>252</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
