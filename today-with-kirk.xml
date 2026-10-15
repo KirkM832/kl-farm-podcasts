@@ -481,5 +481,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1883</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The White Gold That Ruled the World</title>
+      <description>Salt: the white gold that paid Roman soldiers, funded Chinese emperors and Venetian palaces, fed the Age of Sail, sparked the French Revolution, and marched Gandhi to the sea.
+
+AI Generated</description>
+      <itunes:summary>Salt: the white gold that paid Roman soldiers, funded Chinese emperors and Venetian palaces, fed the Age of Sail, sparked the French Revolution, and marched Gandhi to the sea.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-233c0933-b5ea-45ee-9071-f216969280cd</guid>
+      <pubDate>Wed, 14 Oct 2026 12:24:49 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-233c0933-b5ea-45ee-9071-f216969280cd.mp3" length="15116389" type="audio/mpeg" />
+      <itunes:duration>1890</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
