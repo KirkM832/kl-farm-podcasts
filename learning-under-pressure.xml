@@ -257,5 +257,19 @@ AI Generated</itunes:summary>
       <itunes:duration>363</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Protein Does the Heavy Lifting</title>
+      <description>A practical nutrition episode on protein and wound healing, built from the center's 'Easy Ways to Increase Protein Intake' handout.
+
+AI Generated</description>
+      <itunes:summary>A practical nutrition episode on protein and wound healing, built from the center's 'Easy Ways to Increase Protein Intake' handout.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e95cf1e8-61b9-4ef7-8b3b-7b3ec00d95a5</guid>
+      <pubDate>Fri, 16 Oct 2026 10:33:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-e95cf1e8-61b9-4ef7-8b3b-7b3ec00d95a5.mp3" length="2091493" type="audio/mpeg" />
+      <itunes:duration>261</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

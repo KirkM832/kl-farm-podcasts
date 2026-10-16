@@ -495,5 +495,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1890</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Leaf That Built and Broke Empires</title>
+      <description>Tea: the leaf that taxed Tang China, bought Mongol warhorses, sank the Boston Tea Party, funded an opium war, and built the British Empire — then went native as Indian chai and Southern sweet tea.
+
+AI Generated</description>
+      <itunes:summary>Tea: the leaf that taxed Tang China, bought Mongol warhorses, sank the Boston Tea Party, funded an opium war, and built the British Empire — then went native as Indian chai and Southern sweet tea.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-13170ba1-6308-4727-a0ed-c444dc8bb824</guid>
+      <pubDate>Thu, 15 Oct 2026 12:24:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-13170ba1-6308-4727-a0ed-c444dc8bb824.mp3" length="13760627" type="audio/mpeg" />
+      <itunes:duration>1720</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
