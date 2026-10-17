@@ -463,7 +463,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-395f7a3f-611a-4fad-8222-b9968fad97a5</guid>
       <pubDate>Mon, 12 Oct 2026 12:30:07 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-395f7a3f-611a-4fad-8222-b9968fad97a5.mp3" length="17190565" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-395f7a3f-611a-4fad-8222-b9968fad97a5.mp3" length="17190565" type="audio/mpeg" />
       <itunes:duration>2148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -477,7 +477,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-7879fca6-f2e2-4c80-986b-07719e33404a</guid>
       <pubDate>Tue, 13 Oct 2026 12:24:32 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-7879fca6-f2e2-4c80-986b-07719e33404a.mp3" length="15070309" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-7879fca6-f2e2-4c80-986b-07719e33404a.mp3" length="15070309" type="audio/mpeg" />
       <itunes:duration>1883</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -491,7 +491,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-233c0933-b5ea-45ee-9071-f216969280cd</guid>
       <pubDate>Wed, 14 Oct 2026 12:24:49 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-233c0933-b5ea-45ee-9071-f216969280cd.mp3" length="15116389" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-233c0933-b5ea-45ee-9071-f216969280cd.mp3" length="15116389" type="audio/mpeg" />
       <itunes:duration>1890</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -505,8 +505,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-13170ba1-6308-4727-a0ed-c444dc8bb824</guid>
       <pubDate>Thu, 15 Oct 2026 12:24:32 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-13170ba1-6308-4727-a0ed-c444dc8bb824.mp3" length="13760627" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-13170ba1-6308-4727-a0ed-c444dc8bb824.mp3" length="13760627" type="audio/mpeg" />
       <itunes:duration>1720</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Bang That Changed Everything</title>
+      <description>From Taoist alchemists chasing immortality to moon rockets: how gunpowder toppled walls, knights, and empires — and still lights up the Fourth of July.
+
+AI Generated</description>
+      <itunes:summary>From Taoist alchemists chasing immortality to moon rockets: how gunpowder toppled walls, knights, and empires — and still lights up the Fourth of July.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-101deb50-1c6a-4e8e-93ca-a51b3b8dd30a</guid>
+      <pubDate>Fri, 16 Oct 2026 12:27:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-101deb50-1c6a-4e8e-93ca-a51b3b8dd30a.mp3" length="16362469" type="audio/mpeg" />
+      <itunes:duration>2045</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

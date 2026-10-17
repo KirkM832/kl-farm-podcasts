@@ -225,7 +225,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-bd10a8e7-2164-4f6b-a714-cdce69437268</guid>
       <pubDate>Tue, 13 Oct 2026 10:33:38 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-bd10a8e7-2164-4f6b-a714-cdce69437268.mp3" length="3184549" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-bd10a8e7-2164-4f6b-a714-cdce69437268.mp3" length="3184549" type="audio/mpeg" />
       <itunes:duration>398</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,7 +239,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-fcdcdda0-7372-46a3-a7b6-27444966e5e4</guid>
       <pubDate>Wed, 14 Oct 2026 10:34:33 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-fcdcdda0-7372-46a3-a7b6-27444966e5e4.mp3" length="2018149" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-fcdcdda0-7372-46a3-a7b6-27444966e5e4.mp3" length="2018149" type="audio/mpeg" />
       <itunes:duration>252</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -253,7 +253,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0c91283e-875b-4e6c-976f-a279c02c5e33</guid>
       <pubDate>Thu, 15 Oct 2026 10:33:02 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-0c91283e-875b-4e6c-976f-a279c02c5e33.mp3" length="2905189" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-0c91283e-875b-4e6c-976f-a279c02c5e33.mp3" length="2905189" type="audio/mpeg" />
       <itunes:duration>363</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -267,8 +267,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-e95cf1e8-61b9-4ef7-8b3b-7b3ec00d95a5</guid>
       <pubDate>Fri, 16 Oct 2026 10:33:12 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-e95cf1e8-61b9-4ef7-8b3b-7b3ec00d95a5.mp3" length="2091493" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-e95cf1e8-61b9-4ef7-8b3b-7b3ec00d95a5.mp3" length="2091493" type="audio/mpeg" />
       <itunes:duration>261</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Don't Force the Sharps</title>
+      <description>Sharps safety, plain and simple: why the container retires at three-quarters full, the no-stab zone, and the greatest hits of needlestick prevention.
+
+AI Generated</description>
+      <itunes:summary>Sharps safety, plain and simple: why the container retires at three-quarters full, the no-stab zone, and the greatest hits of needlestick prevention.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c75c5df2-8ff0-4fa2-968e-7a1b4d0fbbb9</guid>
+      <pubDate>Sat, 17 Oct 2026 10:32:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-c75c5df2-8ff0-4fa2-968e-7a1b4d0fbbb9.mp3" length="1993381" type="audio/mpeg" />
+      <itunes:duration>249</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
