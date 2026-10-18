@@ -285,5 +285,19 @@ AI Generated</itunes:summary>
       <itunes:duration>249</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Watch Your Step</title>
+      <description>Slips, trips, and falls from cords and clutter in the clinic — the posted SBAR incident that sent a colleague to the floor, a cord-management playbook, and the thirty-second pre-clinic cord scan.
+
+AI Generated</description>
+      <itunes:summary>Slips, trips, and falls from cords and clutter in the clinic — the posted SBAR incident that sent a colleague to the floor, a cord-management playbook, and the thirty-second pre-clinic cord scan.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-884c8e44-2f41-4b63-9aae-9ed1cee6cb3e</guid>
+      <pubDate>Sun, 18 Oct 2026 10:32:40 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-884c8e44-2f41-4b63-9aae-9ed1cee6cb3e.mp3" length="2161573" type="audio/mpeg" />
+      <itunes:duration>270</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

@@ -523,5 +523,19 @@ AI Generated</itunes:summary>
       <itunes:duration>2045</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Press That Printed the World</title>
+      <description>From a Buddhist prayer printed in the year eight sixty eight to Luther's viral pamphlets to the Cherokee Phoenix: how one machine broke the monopoly on knowing.
+
+AI Generated</description>
+      <itunes:summary>From a Buddhist prayer printed in the year eight sixty eight to Luther's viral pamphlets to the Cherokee Phoenix: how one machine broke the monopoly on knowing.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-db4d8df4-53ef-4f6f-92d1-922841834161</guid>
+      <pubDate>Sat, 17 Oct 2026 12:25:27 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-db4d8df4-53ef-4f6f-92d1-922841834161.mp3" length="16408741" type="audio/mpeg" />
+      <itunes:duration>2051</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
