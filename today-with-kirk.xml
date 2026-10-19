@@ -537,5 +537,19 @@ AI Generated</itunes:summary>
       <itunes:duration>2051</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Map That Redrew the World</title>
+      <description>From Ptolemy's wrong number to a smuggled chart to the clock that found longitude: how maps decided the world.
+
+AI Generated</description>
+      <itunes:summary>From Ptolemy's wrong number to a smuggled chart to the clock that found longitude: how maps decided the world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-1c6774d4-d05a-4773-8ebf-9689cd9eb2b2</guid>
+      <pubDate>Sun, 18 Oct 2026 12:25:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-1c6774d4-d05a-4773-8ebf-9689cd9eb2b2.mp3" length="14989093" type="audio/mpeg" />
+      <itunes:duration>1873</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

@@ -299,5 +299,19 @@ AI Generated</itunes:summary>
       <itunes:duration>270</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Down Deep — A Brief History of the Bends</title>
+      <description>Casey takes the team on a pressurized field trip through hyperbaric history — from a 1662 sealed room with fireplace bellows to bridge workers, the bends, and the birth of modern oxygen therapy.
+
+AI Generated</description>
+      <itunes:summary>Casey takes the team on a pressurized field trip through hyperbaric history — from a 1662 sealed room with fireplace bellows to bridge workers, the bends, and the birth of modern oxygen therapy.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-fee1472a-c895-4493-8d1c-89b59a7f7b37</guid>
+      <pubDate>Mon, 19 Oct 2026 10:34:10 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-fee1472a-c895-4493-8d1c-89b59a7f7b37.mp3" length="3208549" type="audio/mpeg" />
+      <itunes:duration>401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
