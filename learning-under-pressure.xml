@@ -327,5 +327,19 @@ AI Generated</itunes:summary>
       <itunes:duration>318</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Find. Treat. Heal. — The Bigger Picture</title>
+      <description>The Healogics Find. Treat. Heal. poster translated into daily work: find the patients, treat them right, and measure the life-changing outcomes.
+
+AI Generated</description>
+      <itunes:summary>The Healogics Find. Treat. Heal. poster translated into daily work: find the patients, treat them right, and measure the life-changing outcomes.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-1d00ade2-65b5-4f4b-8362-69b8228ac73f</guid>
+      <pubDate>Wed, 21 Oct 2026 10:33:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-1d00ade2-65b5-4f4b-8362-69b8228ac73f.mp3" length="2834725" type="audio/mpeg" />
+      <itunes:duration>354</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

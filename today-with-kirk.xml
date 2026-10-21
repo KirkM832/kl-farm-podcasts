@@ -733,5 +733,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1749</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Cold That Changed the World</title>
+      <description>How ice went from a winter accident to the invisible machine that feeds the world, cools the movies, and built the Sun Belt — Frederic Tudor, Persian ice pits, Birdseye, Carrier, and the cold chain.
+
+AI Generated</description>
+      <itunes:summary>How ice went from a winter accident to the invisible machine that feeds the world, cools the movies, and built the Sun Belt — Frederic Tudor, Persian ice pits, Birdseye, Carrier, and the cold chain.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-72a715cd-d2b6-4382-8f56-1805cb3e145d</guid>
+      <pubDate>Tue, 20 Oct 2026 12:24:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-72a715cd-d2b6-4382-8f56-1805cb3e145d.mp3" length="14730661" type="audio/mpeg" />
+      <itunes:duration>1841</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
