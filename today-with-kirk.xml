@@ -747,5 +747,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1841</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Bitter Bean That Became Candy</title>
+      <description>The full chocolate domino chain: Maya foam, Aztec money-beans, Cortes, the fasting scandal, Van Houten's press, Hershey's nickel bar, and the candy bar wars.
+
+AI Generated</description>
+      <itunes:summary>The full chocolate domino chain: Maya foam, Aztec money-beans, Cortes, the fasting scandal, Van Houten's press, Hershey's nickel bar, and the candy bar wars.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-8d382740-fa6e-493c-9793-0fc2aef083bb</guid>
+      <pubDate>Wed, 21 Oct 2026 12:27:52 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8d382740-fa6e-493c-9793-0fc2aef083bb.mp3" length="15592549" type="audio/mpeg" />
+      <itunes:duration>1949</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

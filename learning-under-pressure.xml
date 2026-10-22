@@ -341,5 +341,19 @@ AI Generated</itunes:summary>
       <itunes:duration>354</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: When the Heart Stops</title>
+      <description>A five-minute ACLS refresher: recognize cardiac arrest, push hard and fast, let the AED think — and if the patient is in the chamber, get them out first.
+
+AI Generated</description>
+      <itunes:summary>A five-minute ACLS refresher: recognize cardiac arrest, push hard and fast, let the AED think — and if the patient is in the chamber, get them out first.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c2ee56a0-2c97-43dd-92ad-4ee2c2eaf03c</guid>
+      <pubDate>Thu, 22 Oct 2026 10:50:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-c2ee56a0-2c97-43dd-92ad-4ee2c2eaf03c.mp3" length="2337445" type="audio/mpeg" />
+      <itunes:duration>292</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
