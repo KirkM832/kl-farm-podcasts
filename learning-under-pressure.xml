@@ -281,7 +281,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-c75c5df2-8ff0-4fa2-968e-7a1b4d0fbbb9</guid>
       <pubDate>Sat, 17 Oct 2026 10:32:32 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-c75c5df2-8ff0-4fa2-968e-7a1b4d0fbbb9.mp3" length="1993381" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-c75c5df2-8ff0-4fa2-968e-7a1b4d0fbbb9.mp3" length="1993381" type="audio/mpeg" />
       <itunes:duration>249</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -295,7 +295,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-884c8e44-2f41-4b63-9aae-9ed1cee6cb3e</guid>
       <pubDate>Sun, 18 Oct 2026 10:32:40 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-884c8e44-2f41-4b63-9aae-9ed1cee6cb3e.mp3" length="2161573" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-884c8e44-2f41-4b63-9aae-9ed1cee6cb3e.mp3" length="2161573" type="audio/mpeg" />
       <itunes:duration>270</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -309,7 +309,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-fee1472a-c895-4493-8d1c-89b59a7f7b37</guid>
       <pubDate>Mon, 19 Oct 2026 10:34:10 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-fee1472a-c895-4493-8d1c-89b59a7f7b37.mp3" length="3208549" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-fee1472a-c895-4493-8d1c-89b59a7f7b37.mp3" length="3208549" type="audio/mpeg" />
       <itunes:duration>401</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -323,7 +323,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8ab90b24-981b-420a-ad2d-a733e1225a78</guid>
       <pubDate>Tue, 20 Oct 2026 10:34:25 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-8ab90b24-981b-420a-ad2d-a733e1225a78.mp3" length="2551909" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-8ab90b24-981b-420a-ad2d-a733e1225a78.mp3" length="2551909" type="audio/mpeg" />
       <itunes:duration>318</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -337,7 +337,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-1d00ade2-65b5-4f4b-8362-69b8228ac73f</guid>
       <pubDate>Wed, 21 Oct 2026 10:33:46 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-1d00ade2-65b5-4f4b-8362-69b8228ac73f.mp3" length="2834725" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-1d00ade2-65b5-4f4b-8362-69b8228ac73f.mp3" length="2834725" type="audio/mpeg" />
       <itunes:duration>354</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -351,8 +351,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-c2ee56a0-2c97-43dd-92ad-4ee2c2eaf03c</guid>
       <pubDate>Thu, 22 Oct 2026 10:50:14 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-c2ee56a0-2c97-43dd-92ad-4ee2c2eaf03c.mp3" length="2337445" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-c2ee56a0-2c97-43dd-92ad-4ee2c2eaf03c.mp3" length="2337445" type="audio/mpeg" />
       <itunes:duration>292</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Glow Leaves a Mark</title>
+      <description>Radionecrosis and osteoradionecrosis: what the chamber does for radiation-damaged tissue, and what staff watch for on the floor.
+
+AI Generated</description>
+      <itunes:summary>Radionecrosis and osteoradionecrosis: what the chamber does for radiation-damaged tissue, and what staff watch for on the floor.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9bb71a45-fa71-4001-85e0-87e0b740f065</guid>
+      <pubDate>Fri, 23 Oct 2026 10:34:26 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-9bb71a45-fa71-4001-85e0-87e0b740f065.mp3" length="2785381" type="audio/mpeg" />
+      <itunes:duration>348</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
