@@ -13,12 +13,16 @@ and never expire, which is what Apple Podcasts requires of enclosures.
 The daily feeds.yml workflow rebuilds the RSS feeds with build-feeds.py, which
 rewrites each item's enclosure URL from enclosure-overrides.json when present.
 
-Failure behavior (fixed Oct 1, 2026): the first pending episode is a canary.
-If its download or upload fails, the script prints exactly why in plain
-English and exits 1 immediately, so a bad Archive.org key or a broken
-download shows up as a red X -- never a fake green checkmark. After the
-canary, remaining episodes continue past individual failures, but ANY
-failure still makes the run exit 1 at the end.
+Failure behavior (Oct 1, 2026; revised Oct 23, 2026): the first pending
+episode is a canary. It stops the run immediately ONLY when Archive.org
+rejects the keys (HTTP 401/403), because then every upload would fail the
+same way. Any other single-episode failure -- a dead download link, a slow
+link check -- is printed in plain English, counted, and the run CONTINUES
+with the remaining episodes. Overrides are saved to disk after EVERY
+successful upload, so progress is never lost, and the workflow's commit
+step runs even when this script exits 1 (which it still does whenever any
+episode failed -- the red X stays honest, it just no longer discards the
+successes).
 
 Link-check patience (fixed Oct 1, 2026): Archive.org can take 10+ minutes
 to publish the public download link after a PUT, so the post-upload check
@@ -207,17 +211,28 @@ def main():
         print("nothing new to upload")
         return 0
 
+    def save_overrides():
+        """Write overrides to disk NOW, so progress survives a later failure
+        or a killed runner (fixed Oct 23, 2026: previously the file was only
+        written at the very end, and one failure anywhere threw away every
+        successful upload's record)."""
+        with open(ov_path, "w") as f:
+            json.dump(overrides, f, indent=1)
+            f.write("\n")
+
     def upload_one(slug, identifier, show_title, guid, title, url, canary):
-        """Returns (True, '') on success or (False, reason)."""
+        """Returns (status, result): status is "ok", "fail" (this episode
+        only), or "fatal" (Archive.org rejected the keys -- every other
+        upload would fail the same way, so stop early)."""
         filename = safe_filename(guid)
         final_url = "https://archive.org/download/%s/%s" % (identifier, filename)
         if ia_file_live(identifier, filename):
             print("[%s] already on Archive.org, skipping upload" % guid, flush=True)
-            return True, final_url
+            return "ok", final_url
         tmp = "/tmp/%s.mp3" % re.sub(r"[^A-Za-z0-9_-]", "_", guid)
         ok, reason = download(url, tmp)
         if not ok:
-            return False, "DOWNLOAD FAILED for %s (%s): %s" % (guid, title[:60], reason)
+            return "fail", "DOWNLOAD FAILED for %s (%s): %s" % (guid, title[:60], reason)
         code, err, body = ia_put(identifier, filename, tmp,
                                  "%s: %s" % (show_title, title), access, secret)
         try:
@@ -229,40 +244,57 @@ def main():
             detail = " curl said: %s" % err[:200] if err else ""
             srv = (" archive.org said: %s" % " ".join(body.split())[:300]
                    if body.strip() else "")
-            return False, "UPLOAD FAILED for %s (%s): %s%s%s" % (
+            status = "fatal" if code in ("401", "403") else "fail"
+            return status, "UPLOAD FAILED for %s (%s): %s%s%s" % (
                 guid, title[:60], advice, detail, srv)
         if not ia_head_ok(identifier, filename):
-            return False, ("UPLOAD PROBLEM for %s (%s): the file reached "
-                           "Archive.org but the public link never came up." %
-                           (guid, title[:60]))
-        return True, final_url
+            return "fail", ("UPLOAD PROBLEM for %s (%s): the file reached "
+                            "Archive.org but the public link never came up." %
+                            (guid, title[:60]))
+        return "ok", final_url
 
-    # ---- canary: first episode must work, or fail fast with a clear reason ----
+    # ---- canary: the first episode tests the water. Only an Archive.org
+    # key rejection (fatal) stops the whole run -- a single episode's own
+    # problem (dead download link, slow link check) must not block the
+    # other episodes (fixed Oct 23, 2026). ----
+    failed = 0
     slug, identifier, show_title, guid, title, url = pending[0]
     print("Canary: testing with [%s] %s ..." % (slug, title[:60]), flush=True)
-    ok, result = upload_one(slug, identifier, show_title, guid, title, url, True)
-    if not ok:
+    status, result = upload_one(slug, identifier, show_title, guid, title, url, True)
+    if status == "fatal":
         print(result, file=sys.stderr)
-        print("STOPPING: fix the problem above, then re-run the workflow.", file=sys.stderr)
+        print("STOPPING: Archive.org is rejecting the keys, so every upload "
+              "would fail the same way. Fix the keys, then re-run.", file=sys.stderr)
         return 1
-    overrides[guid] = result
-    print("[%s] OK -> %s" % (slug, result), flush=True)
+    if status == "ok":
+        overrides[guid] = result
+        save_overrides()
+        print("[%s] OK -> %s" % (slug, result), flush=True)
+    else:
+        failed += 1
+        print(result, file=sys.stderr)
+        print("The canary episode failed on its own -- continuing with the "
+              "rest; only this episode is affected.", file=sys.stderr)
 
     # ---- remaining episodes: keep going past single failures, but report them ----
-    failed = 0
     for slug, identifier, show_title, guid, title, url in pending[1:]:
         print("[%s] uploading %s (%s) ..." % (slug, guid, title[:60]), flush=True)
-        ok, result = upload_one(slug, identifier, show_title, guid, title, url, False)
-        if ok:
+        status, result = upload_one(slug, identifier, show_title, guid, title, url, False)
+        if status == "ok":
             overrides[guid] = result
+            save_overrides()
             print("[%s] OK -> %s" % (slug, result), flush=True)
+        elif status == "fatal":
+            print(result, file=sys.stderr)
+            save_overrides()
+            print("STOPPING: Archive.org is rejecting the keys. Progress so "
+                  "far is saved; fix the keys, then re-run.", file=sys.stderr)
+            return 1
         else:
             failed += 1
             print(result, file=sys.stderr)
 
-    with open(ov_path, "w") as f:
-        json.dump(overrides, f, indent=1)
-        f.write("\n")
+    save_overrides()
 
     done = len(pending) - failed
     print("enclosure-overrides.json updated (%d entries)" % len(overrides))
