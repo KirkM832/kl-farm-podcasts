@@ -28,6 +28,11 @@ jobs:
         run: python3 ia_upload.py
 
       - name: Commit updated overrides
+        # always(): commit whatever progress the upload step made, even when
+        # it exits 1 over a failed episode. Without this, one bad episode
+        # discards every successful upload's override and the same backlog
+        # (plus new episodes) is retried from scratch the next day.
+        if: always()
         run: |
           git config user.name "kl-farm-bot"
           git config user.email "kl-farm-bot@users.noreply.github.com"
