@@ -771,8 +771,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-664a85c6-9a2d-42c9-aa5e-7b53d96271a4</guid>
       <pubDate>Thu, 22 Oct 2026 12:27:34 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-664a85c6-9a2d-42c9-aa5e-7b53d96271a4.mp3" length="13497735" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-664a85c6-9a2d-42c9-aa5e-7b53d96271a4.mp3" length="13497735" type="audio/mpeg" />
       <itunes:duration>1687</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Spark That Lit the World</title>
+      <description>The full electricity domino chain: lightning in a jar, the men who bottled it, and the grid that never sleeps.
+
+AI Generated</description>
+      <itunes:summary>The full electricity domino chain: lightning in a jar, the men who bottled it, and the grid that never sleeps.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-634637e7-086a-46ec-8e12-7479c165854f</guid>
+      <pubDate>Fri, 23 Oct 2026 12:31:54 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-634637e7-086a-46ec-8e12-7479c165854f.mp3" length="17597797" type="audio/mpeg" />
+      <itunes:duration>2199</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

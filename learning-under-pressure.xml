@@ -365,8 +365,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-9bb71a45-fa71-4001-85e0-87e0b740f065</guid>
       <pubDate>Fri, 23 Oct 2026 10:34:26 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-9bb71a45-fa71-4001-85e0-87e0b740f065.mp3" length="2785381" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-9bb71a45-fa71-4001-85e0-87e0b740f065.mp3" length="2785381" type="audio/mpeg" />
       <itunes:duration>348</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Name, Birth Date, Done Right</title>
+      <description>Patient identification done correctly: two identifiers, every patient, every time — full name plus date of birth, checked against the wristband and the chart.
+
+AI Generated</description>
+      <itunes:summary>Patient identification done correctly: two identifiers, every patient, every time — full name plus date of birth, checked against the wristband and the chart.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-69729ef1-d8c5-420d-841d-7a8ec5d28116</guid>
+      <pubDate>Sat, 24 Oct 2026 10:31:56 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-69729ef1-d8c5-420d-841d-7a8ec5d28116.mp3" length="2711077" type="audio/mpeg" />
+      <itunes:duration>339</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
