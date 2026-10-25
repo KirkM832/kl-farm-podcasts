@@ -785,8 +785,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-634637e7-086a-46ec-8e12-7479c165854f</guid>
       <pubDate>Fri, 23 Oct 2026 12:31:54 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-634637e7-086a-46ec-8e12-7479c165854f.mp3" length="17597797" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-634637e7-086a-46ec-8e12-7479c165854f.mp3" length="17597797" type="audio/mpeg" />
       <itunes:duration>2199</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Wave That Crossed the Ocean</title>
+      <description>The full wireless chain: invisible waves, Marconi's three dots across the Atlantic, and the phone in your pocket.
+
+AI Generated</description>
+      <itunes:summary>The full wireless chain: invisible waves, Marconi's three dots across the Atlantic, and the phone in your pocket.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-8615bf0d-6646-4374-bd8a-9bbd25422f48</guid>
+      <pubDate>Sat, 24 Oct 2026 12:24:37 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8615bf0d-6646-4374-bd8a-9bbd25422f48.mp3" length="16363045" type="audio/mpeg" />
+      <itunes:duration>2045</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

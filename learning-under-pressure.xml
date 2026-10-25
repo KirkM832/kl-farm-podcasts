@@ -383,5 +383,19 @@ AI Generated</itunes:summary>
       <itunes:duration>339</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: A Sponge With a Silver Lining</title>
+      <description>Aquacel, the silver Hydrofiber dressing: what it is, when to reach for it, when not to, and what to tell patients about the gel.
+
+AI Generated</description>
+      <itunes:summary>Aquacel, the silver Hydrofiber dressing: what it is, when to reach for it, when not to, and what to tell patients about the gel.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-0c0600d9-18dc-4f32-a949-d99163c011e6</guid>
+      <pubDate>Sun, 25 Oct 2026 10:33:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-0c0600d9-18dc-4f32-a949-d99163c011e6.mp3" length="2772325" type="audio/mpeg" />
+      <itunes:duration>346</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
