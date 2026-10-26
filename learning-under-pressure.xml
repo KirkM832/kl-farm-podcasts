@@ -379,7 +379,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-69729ef1-d8c5-420d-841d-7a8ec5d28116</guid>
       <pubDate>Sat, 24 Oct 2026 10:31:56 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-69729ef1-d8c5-420d-841d-7a8ec5d28116.mp3" length="2711077" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-69729ef1-d8c5-420d-841d-7a8ec5d28116.mp3" length="2711077" type="audio/mpeg" />
       <itunes:duration>339</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -395,6 +395,20 @@ AI Generated</itunes:summary>
       <pubDate>Sun, 25 Oct 2026 10:33:15 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-0c0600d9-18dc-4f32-a949-d99163c011e6.mp3" length="2772325" type="audio/mpeg" />
       <itunes:duration>346</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Scaffold in a Sheet</title>
+      <description>Casey explains Prisma, the collagen matrix dressing, in plain English: what a scaffold sheet does for a stalled wound, when the team reaches for it, and what it cannot fix on its own.
+
+AI Generated</description>
+      <itunes:summary>Casey explains Prisma, the collagen matrix dressing, in plain English: what a scaffold sheet does for a stalled wound, when the team reaches for it, and what it cannot fix on its own.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-9b006b34-c446-4360-af3f-99435bb55a96</guid>
+      <pubDate>Mon, 26 Oct 2026 10:32:50 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-9b006b34-c446-4360-af3f-99435bb55a96.mp3" length="2722405" type="audio/mpeg" />
+      <itunes:duration>340</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
