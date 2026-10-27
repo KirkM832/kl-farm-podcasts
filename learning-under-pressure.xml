@@ -393,7 +393,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0c0600d9-18dc-4f32-a949-d99163c011e6</guid>
       <pubDate>Sun, 25 Oct 2026 10:33:15 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-0c0600d9-18dc-4f32-a949-d99163c011e6.mp3" length="2772325" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-0c0600d9-18dc-4f32-a949-d99163c011e6.mp3" length="2772325" type="audio/mpeg" />
       <itunes:duration>346</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -409,6 +409,20 @@ AI Generated</itunes:summary>
       <pubDate>Mon, 26 Oct 2026 10:32:50 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-9b006b34-c446-4360-af3f-99435bb55a96.mp3" length="2722405" type="audio/mpeg" />
       <itunes:duration>340</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Honey, I Dressed the Wound</title>
+      <description>Medical-grade honey, the sweetest dressing in the drawer — what it does, when the team reaches for it, and why the pantry jar stays in the kitchen.
+
+AI Generated</description>
+      <itunes:summary>Medical-grade honey, the sweetest dressing in the drawer — what it does, when the team reaches for it, and why the pantry jar stays in the kitchen.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-4744eb58-f9c6-46c9-a009-2aca56eb2112</guid>
+      <pubDate>Tue, 27 Oct 2026 10:33:59 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-4744eb58-f9c6-46c9-a009-2aca56eb2112.mp3" length="2824933" type="audio/mpeg" />
+      <itunes:duration>353</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

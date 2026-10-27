@@ -799,7 +799,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8615bf0d-6646-4374-bd8a-9bbd25422f48</guid>
       <pubDate>Sat, 24 Oct 2026 12:24:37 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8615bf0d-6646-4374-bd8a-9bbd25422f48.mp3" length="16363045" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-8615bf0d-6646-4374-bd8a-9bbd25422f48.mp3" length="16363045" type="audio/mpeg" />
       <itunes:duration>2045</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -813,8 +813,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-465cad0e-6a63-469c-a9b8-b2cd6bbf6158</guid>
       <pubDate>Sun, 25 Oct 2026 12:28:52 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-465cad0e-6a63-469c-a9b8-b2cd6bbf6158.mp3" length="15853477" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-465cad0e-6a63-469c-a9b8-b2cd6bbf6158.mp3" length="15853477" type="audio/mpeg" />
       <itunes:duration>1981</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Screen That Fits in Your Pocket</title>
+      <description>From Martin Cooper's brick to the phone in every pocket: how the smartphone swallowed the camera, the map, the music player, and the evening — and what it did to daily life.
+
+AI Generated</description>
+      <itunes:summary>From Martin Cooper's brick to the phone in every pocket: how the smartphone swallowed the camera, the map, the music player, and the evening — and what it did to daily life.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-295a4bd3-bf84-4859-8de0-b18c1baa8a63</guid>
+      <pubDate>Mon, 26 Oct 2026 12:26:58 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-295a4bd3-bf84-4859-8de0-b18c1baa8a63.mp3" length="15414757" type="audio/mpeg" />
+      <itunes:duration>1926</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
