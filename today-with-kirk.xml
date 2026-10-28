@@ -827,8 +827,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-295a4bd3-bf84-4859-8de0-b18c1baa8a63</guid>
       <pubDate>Mon, 26 Oct 2026 12:26:58 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-295a4bd3-bf84-4859-8de0-b18c1baa8a63.mp3" length="15414757" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-295a4bd3-bf84-4859-8de0-b18c1baa8a63.mp3" length="15414757" type="audio/mpeg" />
       <itunes:duration>1926</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Chip That Shrunk the World</title>
+      <description>From beach sand to thinking machines: how a crystal switch became the brain inside everything you own.
+
+AI Generated</description>
+      <itunes:summary>From beach sand to thinking machines: how a crystal switch became the brain inside everything you own.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7d34efe8-1f4c-40b9-a76a-a825082da90a</guid>
+      <pubDate>Tue, 27 Oct 2026 12:24:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-7d34efe8-1f4c-40b9-a76a-a825082da90a.mp3" length="14717605" type="audio/mpeg" />
+      <itunes:duration>1839</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
