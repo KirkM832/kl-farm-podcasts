@@ -439,5 +439,19 @@ AI Generated</itunes:summary>
       <itunes:duration>370</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: The Boot That Is a Bandage</title>
+      <description>The Unna boot: a zinc oxide paste bandage that gently compresses a venous leg and gives stubborn wounds a fair chance to close.
+
+AI Generated</description>
+      <itunes:summary>The Unna boot: a zinc oxide paste bandage that gently compresses a venous leg and gives stubborn wounds a fair chance to close.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-194e3f4b-f175-4193-aa82-1c3902750904</guid>
+      <pubDate>Thu, 29 Oct 2026 10:32:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-194e3f4b-f175-4193-aa82-1c3902750904.mp3" length="3125029" type="audio/mpeg" />
+      <itunes:duration>390</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

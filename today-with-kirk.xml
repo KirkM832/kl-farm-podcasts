@@ -845,5 +845,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1839</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Machine That Learned to Think</title>
+      <description>From a clockwork duck to AlphaGo's move 37: how humanity taught machines to think, and what it changed.
+
+AI Generated</description>
+      <itunes:summary>From a clockwork duck to AlphaGo's move 37: how humanity taught machines to think, and what it changed.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-bca4197e-a49f-4719-ab47-264fea946a23</guid>
+      <pubDate>Wed, 28 Oct 2026 12:25:17 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-bca4197e-a49f-4719-ab47-264fea946a23.mp3" length="16155109" type="audio/mpeg" />
+      <itunes:duration>2019</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
