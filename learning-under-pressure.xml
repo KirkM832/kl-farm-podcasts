@@ -435,7 +435,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-d29e0b21-144c-4760-8e30-42a5a1d85e07</guid>
       <pubDate>Wed, 28 Oct 2026 10:32:15 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-d29e0b21-144c-4760-8e30-42a5a1d85e07.mp3" length="2964517" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-d29e0b21-144c-4760-8e30-42a5a1d85e07.mp3" length="2964517" type="audio/mpeg" />
       <itunes:duration>370</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -449,8 +449,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-194e3f4b-f175-4193-aa82-1c3902750904</guid>
       <pubDate>Thu, 29 Oct 2026 10:32:47 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-194e3f4b-f175-4193-aa82-1c3902750904.mp3" length="3125029" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-194e3f4b-f175-4193-aa82-1c3902750904.mp3" length="3125029" type="audio/mpeg" />
       <itunes:duration>390</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Pad That Locks It In</title>
+      <description>Super-absorbent pads: what they are, when to reach for one, when not to, and the three-question check for staff.
+
+AI Generated</description>
+      <itunes:summary>Super-absorbent pads: what they are, when to reach for one, when not to, and the three-question check for staff.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-6f140107-2184-4225-b4dc-69ca367a5ec9</guid>
+      <pubDate>Fri, 30 Oct 2026 10:32:17 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-6f140107-2184-4225-b4dc-69ca367a5ec9.mp3" length="2587429" type="audio/mpeg" />
+      <itunes:duration>323</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -841,7 +841,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-7d34efe8-1f4c-40b9-a76a-a825082da90a</guid>
       <pubDate>Tue, 27 Oct 2026 12:24:00 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-7d34efe8-1f4c-40b9-a76a-a825082da90a.mp3" length="14717605" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-7d34efe8-1f4c-40b9-a76a-a825082da90a.mp3" length="14717605" type="audio/mpeg" />
       <itunes:duration>1839</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -855,8 +855,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-bca4197e-a49f-4719-ab47-264fea946a23</guid>
       <pubDate>Wed, 28 Oct 2026 12:25:17 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-bca4197e-a49f-4719-ab47-264fea946a23.mp3" length="16155109" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-bca4197e-a49f-4719-ab47-264fea946a23.mp3" length="16155109" type="audio/mpeg" />
       <itunes:duration>2019</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Web That Caught the World</title>
+      <description>How a military network built to survive a war became the place where we all live now, from the first crashed message to the internet in every pocket.
+
+AI Generated</description>
+      <itunes:summary>How a military network built to survive a war became the place where we all live now, from the first crashed message to the internet in every pocket.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-11f98721-e11f-4008-9d5d-10f62e53b1f9</guid>
+      <pubDate>Thu, 29 Oct 2026 12:24:25 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-11f98721-e11f-4008-9d5d-10f62e53b1f9.mp3" length="13981285" type="audio/mpeg" />
+      <itunes:duration>1747</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
