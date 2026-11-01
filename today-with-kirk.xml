@@ -869,7 +869,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-11f98721-e11f-4008-9d5d-10f62e53b1f9</guid>
       <pubDate>Thu, 29 Oct 2026 12:24:25 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-11f98721-e11f-4008-9d5d-10f62e53b1f9.mp3" length="13981285" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-11f98721-e11f-4008-9d5d-10f62e53b1f9.mp3" length="13981285" type="audio/mpeg" />
       <itunes:duration>1747</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -885,6 +885,34 @@ AI Generated</itunes:summary>
       <pubDate>Fri, 30 Oct 2026 12:26:17 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4830d05d-2c01-470b-a3a2-969eb65d06af.mp3" length="15999397" type="audio/mpeg" />
       <itunes:duration>2000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Eye That Never Blinks</title>
+      <description>How a beeping metal ball became the eyes in the sky — television links, hurricane warnings, spy cameras, and the blue dot that tells you exactly where you are.
+
+AI Generated</description>
+      <itunes:summary>How a beeping metal ball became the eyes in the sky — television links, hurricane warnings, spy cameras, and the blue dot that tells you exactly where you are.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-68a7ac78-7cec-4e2b-b1db-fcb4305065a9</guid>
+      <pubDate>Sat, 31 Oct 2026 12:25:01 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-68a7ac78-7cec-4e2b-b1db-fcb4305065a9.mp3" length="14089573" type="audio/mpeg" />
+      <itunes:duration>1761</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Rocket That Carried Us Off the Earth</title>
+      <description>From a cabbage patch in Massachusetts to a football-field station above the sky: the full human spaceflight domino chain, with world-freezes at 1961 and 1998.
+
+AI Generated</description>
+      <itunes:summary>From a cabbage patch in Massachusetts to a football-field station above the sky: the full human spaceflight domino chain, with world-freezes at 1961 and 1998.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-afa87796-e511-43d2-a5cb-cd5b7377538a</guid>
+      <pubDate>Sun, 01 Nov 2026 13:24:42 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-afa87796-e511-43d2-a5cb-cd5b7377538a.mp3" length="13640293" type="audio/mpeg" />
+      <itunes:duration>1705</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
