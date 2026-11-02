@@ -883,7 +883,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-4830d05d-2c01-470b-a3a2-969eb65d06af</guid>
       <pubDate>Fri, 30 Oct 2026 12:26:17 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4830d05d-2c01-470b-a3a2-969eb65d06af.mp3" length="15999397" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-4830d05d-2c01-470b-a3a2-969eb65d06af.mp3" length="15999397" type="audio/mpeg" />
       <itunes:duration>2000</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -897,7 +897,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-68a7ac78-7cec-4e2b-b1db-fcb4305065a9</guid>
       <pubDate>Sat, 31 Oct 2026 12:25:01 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-68a7ac78-7cec-4e2b-b1db-fcb4305065a9.mp3" length="14089573" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-68a7ac78-7cec-4e2b-b1db-fcb4305065a9.mp3" length="14089573" type="audio/mpeg" />
       <itunes:duration>1761</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -911,8 +911,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-afa87796-e511-43d2-a5cb-cd5b7377538a</guid>
       <pubDate>Sun, 01 Nov 2026 13:24:42 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-afa87796-e511-43d2-a5cb-cd5b7377538a.mp3" length="13640293" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-afa87796-e511-43d2-a5cb-cd5b7377538a.mp3" length="13640293" type="audio/mpeg" />
       <itunes:duration>1705</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Thread of Light That Wired the World</title>
+      <description>From beacon fires to glass threads under the sea: how fiber optics wired the world.
+
+AI Generated</description>
+      <itunes:summary>From beacon fires to glass threads under the sea: how fiber optics wired the world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-81222e54-91a0-46a4-bea9-0bc373b749ca</guid>
+      <pubDate>Mon, 02 Nov 2026 13:24:40 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-81222e54-91a0-46a4-bea9-0bc373b749ca.mp3" length="12740005" type="audio/mpeg" />
+      <itunes:duration>1592</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

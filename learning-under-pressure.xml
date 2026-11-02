@@ -477,7 +477,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-9f100e4a-18b1-4cc3-9286-d9b085d7c0ea</guid>
       <pubDate>Sat, 31 Oct 2026 10:33:08 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-9f100e4a-18b1-4cc3-9286-d9b085d7c0ea.mp3" length="2874853" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-9f100e4a-18b1-4cc3-9286-d9b085d7c0ea.mp3" length="2874853" type="audio/mpeg" />
       <itunes:duration>359</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -505,8 +505,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0dfaade7-3165-4401-85f1-0f8a9da3ec67</guid>
       <pubDate>Sun, 01 Nov 2026 11:32:31 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-0dfaade7-3165-4401-85f1-0f8a9da3ec67.mp3" length="2671717" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-0dfaade7-3165-4401-85f1-0f8a9da3ec67.mp3" length="2671717" type="audio/mpeg" />
       <itunes:duration>333</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: The Dressing Is Talking</title>
+      <description>What to teach patients about home dressing changes — and why more drainage means investigating the cause, not just adding layers.
+
+AI Generated</description>
+      <itunes:summary>What to teach patients about home dressing changes — and why more drainage means investigating the cause, not just adding layers.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f</guid>
+      <pubDate>Mon, 02 Nov 2026 11:31:54 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f.mp3" length="2046181" type="audio/mpeg" />
+      <itunes:duration>255</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
