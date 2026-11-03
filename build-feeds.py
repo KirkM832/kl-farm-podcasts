@@ -140,6 +140,13 @@ SHOWS = [
         "link": f"{PAGES}/the-workshop.xml",
         "keywords": "artificial intelligence,AI assistant,behind the scenes,technology,how AI works",
     },
+    {
+        # Source feed added Nov 3, 2026, so the show can be submitted to
+        # YouTube (YouTube rejected the platform feed for missing itunes:owner).
+        "slug": "coffee-with",
+        "source": "https://muse.ai/podcasts/feed/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357",
+        "category": "Society & Culture",
+    },
 ]
 
 # Published item titles to rename (GUIDs/enclosures untouched).

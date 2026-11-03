@@ -54,6 +54,7 @@ SHOWS = {
     "how-we-got-here": ("kl-farm-how-we-got-here", "How We Got Here"),
     "one-damn-thing-after-another": ("kl-farm-one-damn-thing-after-another", "One Damn Thing After Another"),
     "the-workshop": ("kl-farm-the-workshop", "The Workshop"),
+    "coffee-with": ("kl-farm-coffee-with", "Coffee With"),
 }
 
 CREATOR = "Kirk Moore"
