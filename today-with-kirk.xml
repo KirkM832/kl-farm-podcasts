@@ -925,8 +925,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-81222e54-91a0-46a4-bea9-0bc373b749ca</guid>
       <pubDate>Mon, 02 Nov 2026 13:24:40 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-81222e54-91a0-46a4-bea9-0bc373b749ca.mp3" length="12740005" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-81222e54-91a0-46a4-bea9-0bc373b749ca.mp3" length="12740005" type="audio/mpeg" />
       <itunes:duration>1592</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Battery That Cut the Cord</title>
+      <description>From a twitching frog leg to the battery in your pocket: how bottled lightning cut the cord and rewired the world.
+
+AI Generated</description>
+      <itunes:summary>From a twitching frog leg to the battery in your pocket: how bottled lightning cut the cord and rewired the world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-4064a5dd-66d1-44ba-ab63-05e739e0052c</guid>
+      <pubDate>Tue, 03 Nov 2026 13:25:07 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4064a5dd-66d1-44ba-ab63-05e739e0052c.mp3" length="14419813" type="audio/mpeg" />
+      <itunes:duration>1802</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

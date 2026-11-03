@@ -491,7 +491,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-206cf14e-d31c-4f2d-b87d-beb049af9bb3</guid>
       <pubDate>Sun, 01 Nov 2026 11:14:36 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-206cf14e-d31c-4f2d-b87d-beb049af9bb3.mp3" length="10432165" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-206cf14e-d31c-4f2d-b87d-beb049af9bb3.mp3" length="10432165" type="audio/mpeg" />
       <itunes:duration>1304</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -521,6 +521,20 @@ AI Generated</itunes:summary>
       <pubDate>Mon, 02 Nov 2026 11:31:54 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f.mp3" length="2046181" type="audio/mpeg" />
       <itunes:duration>255</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Feet Up, Wound Down</title>
+      <description>Patient education: why elevation and staying off your feet help leg wounds heal, and how to counsel patients so they actually do it.
+
+AI Generated</description>
+      <itunes:summary>Patient education: why elevation and staying off your feet help leg wounds heal, and how to counsel patients so they actually do it.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-351d26f2-3662-4a11-a455-1eccbe537415</guid>
+      <pubDate>Tue, 03 Nov 2026 11:32:21 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-351d26f2-3662-4a11-a455-1eccbe537415.mp3" length="2585893" type="audio/mpeg" />
+      <itunes:duration>323</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
