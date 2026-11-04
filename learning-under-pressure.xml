@@ -519,7 +519,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f</guid>
       <pubDate>Mon, 02 Nov 2026 11:31:54 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f.mp3" length="2046181" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-7c26fb23-e3c9-4621-ba22-57f8fa228e2f.mp3" length="2046181" type="audio/mpeg" />
       <itunes:duration>255</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -533,8 +533,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-351d26f2-3662-4a11-a455-1eccbe537415</guid>
       <pubDate>Tue, 03 Nov 2026 11:32:21 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-351d26f2-3662-4a11-a455-1eccbe537415.mp3" length="2585893" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-learning-under-pressure/ep-351d26f2-3662-4a11-a455-1eccbe537415.mp3" length="2585893" type="audio/mpeg" />
       <itunes:duration>323</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Learning Under Pressure: Pop Goes the Pressure</title>
+      <description>Coaching patients through ear equalization in the chamber — teach before the dive, equalize early and often, and never push through ear pain.
+
+AI Generated</description>
+      <itunes:summary>Coaching patients through ear equalization in the chamber — teach before the dive, equalize early and often, and never push through ear pain.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-f8c5d5d9-67a7-4685-a12d-2a52ab5fbaa2</guid>
+      <pubDate>Wed, 04 Nov 2026 11:35:34 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-f8c5d5d9-67a7-4685-a12d-2a52ab5fbaa2.mp3" length="2971045" type="audio/mpeg" />
+      <itunes:duration>371</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

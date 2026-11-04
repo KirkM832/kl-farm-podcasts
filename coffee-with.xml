@@ -425,5 +425,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1485</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Coffee With Maya Angelou</title>
+      <description>Ellis sits down for coffee with Maya Angelou: the Stamps childhood, the years of silence, Mrs. Bertha Flowers, I Know Why the Caged Bird Sings, Still I Rise, and the 1993 inauguration poem — plus a riddle teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Maya Angelou: the Stamps childhood, the years of silence, Mrs. Bertha Flowers, I Know Why the Caged Bird Sings, Still I Rise, and the 1993 inauguration poem — plus a riddle teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7bc41b1d-20c5-4955-b027-b4e6335bfa85</guid>
+      <pubDate>Wed, 04 Nov 2026 15:07:05 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-7bc41b1d-20c5-4955-b027-b4e6335bfa85.mp3" length="11997541" type="audio/mpeg" />
+      <itunes:duration>1499</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
