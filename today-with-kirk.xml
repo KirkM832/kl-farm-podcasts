@@ -939,7 +939,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-4064a5dd-66d1-44ba-ab63-05e739e0052c</guid>
       <pubDate>Tue, 03 Nov 2026 13:25:07 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4064a5dd-66d1-44ba-ab63-05e739e0052c.mp3" length="14419813" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-4064a5dd-66d1-44ba-ab63-05e739e0052c.mp3" length="14419813" type="audio/mpeg" />
       <itunes:duration>1802</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -967,7 +967,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-3310aba4-36f9-4c29-a213-706526bfb213</guid>
       <pubDate>Wed, 04 Nov 2026 14:05:59 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-3310aba4-36f9-4c29-a213-706526bfb213.mp3" length="13443493" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-big-sister-energy/ep-3310aba4-36f9-4c29-a213-706526bfb213.mp3" length="13443493" type="audio/mpeg" />
       <itunes:duration>1680</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -981,8 +981,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-66471ba8-34a4-42cf-9aac-6490ed3e8415</guid>
       <pubDate>Wed, 04 Nov 2026 14:13:47 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-66471ba8-34a4-42cf-9aac-6490ed3e8415.mp3" length="13095973" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-big-sister-energy/ep-66471ba8-34a4-42cf-9aac-6490ed3e8415.mp3" length="13095973" type="audio/mpeg" />
       <itunes:duration>1636</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Car That Changed the Map</title>
+      <description>From Bertha Benz's sixty-five-mile drive to fifteen million Model Ts — how the automobile redrew the map of the world.
+
+AI Generated</description>
+      <itunes:summary>From Bertha Benz's sixty-five-mile drive to fifteen million Model Ts — how the automobile redrew the map of the world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-4399fb46-3b17-462c-bc2e-32fe96f702e0</guid>
+      <pubDate>Thu, 05 Nov 2026 13:29:18 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4399fb46-3b17-462c-bc2e-32fe96f702e0.mp3" length="14121445" type="audio/mpeg" />
+      <itunes:duration>1765</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
