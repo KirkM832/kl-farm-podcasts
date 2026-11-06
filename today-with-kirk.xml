@@ -953,7 +953,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-a3578ac5-457b-47e5-90fd-eae3e06ebc45</guid>
       <pubDate>Wed, 04 Nov 2026 13:34:20 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-a3578ac5-457b-47e5-90fd-eae3e06ebc45.mp3" length="15794149" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-a3578ac5-457b-47e5-90fd-eae3e06ebc45.mp3" length="15794149" type="audio/mpeg" />
       <itunes:duration>1974</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -997,6 +997,20 @@ AI Generated</itunes:summary>
       <pubDate>Thu, 05 Nov 2026 13:29:18 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4399fb46-3b17-462c-bc2e-32fe96f702e0.mp3" length="14121445" type="audio/mpeg" />
       <itunes:duration>1765</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Wings That Shrunk the World</title>
+      <description>From Icarus to the jumbo jet — how the airplane shrunk the world.
+
+AI Generated</description>
+      <itunes:summary>From Icarus to the jumbo jet — how the airplane shrunk the world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-679cdfff-37f5-43e7-a130-f7e4d70e1700</guid>
+      <pubDate>Fri, 06 Nov 2026 13:26:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-679cdfff-37f5-43e7-a130-f7e4d70e1700.mp3" length="14014693" type="audio/mpeg" />
+      <itunes:duration>1751</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
