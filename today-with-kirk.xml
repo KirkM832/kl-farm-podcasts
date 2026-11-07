@@ -995,7 +995,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-4399fb46-3b17-462c-bc2e-32fe96f702e0</guid>
       <pubDate>Thu, 05 Nov 2026 13:29:18 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4399fb46-3b17-462c-bc2e-32fe96f702e0.mp3" length="14121445" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-4399fb46-3b17-462c-bc2e-32fe96f702e0.mp3" length="14121445" type="audio/mpeg" />
       <itunes:duration>1765</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1011,6 +1011,20 @@ AI Generated</itunes:summary>
       <pubDate>Fri, 06 Nov 2026 13:26:44 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-679cdfff-37f5-43e7-a130-f7e4d70e1700.mp3" length="14014693" type="audio/mpeg" />
       <itunes:duration>1751</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Box That Sailed the World</title>
+      <description>How a steel box and a stubborn truck driver made shipping nearly free and remade the world — from the Ideal X in 1956 to the Ever Given stuck in the Suez Canal.
+
+AI Generated</description>
+      <itunes:summary>How a steel box and a stubborn truck driver made shipping nearly free and remade the world — from the Ideal X in 1956 to the Ever Given stuck in the Suez Canal.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-505d6497-7fe2-4686-82fa-91808377f0d9</guid>
+      <pubDate>Sat, 07 Nov 2026 13:27:18 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-505d6497-7fe2-4686-82fa-91808377f0d9.mp3" length="11765797" type="audio/mpeg" />
+      <itunes:duration>1471</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
