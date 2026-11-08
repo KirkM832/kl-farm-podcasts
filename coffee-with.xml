@@ -463,7 +463,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0aee8184-f550-4a36-8efc-0b37d25c8d6b</guid>
       <pubDate>Fri, 06 Nov 2026 14:29:10 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-0aee8184-f550-4a36-8efc-0b37d25c8d6b.mp3" length="9708901" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-0aee8184-f550-4a36-8efc-0b37d25c8d6b.mp3" length="9708901" type="audio/mpeg" />
       <itunes:duration>1213</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -479,6 +479,34 @@ AI Generated</itunes:summary>
       <pubDate>Sat, 07 Nov 2026 15:29:04 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-9b8c5f75-c28d-49f8-81f3-6eebb39025e4.mp3" length="12932581" type="audio/mpeg" />
       <itunes:duration>1616</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Thomas Kinkade</title>
+      <description>A special edition of Coffee With: a deep, unhurried conversation with Thomas Kinkade, the Painter of Light. His Placerville childhood, first teachers Charles Bell and Glenn Wessels, the cross-country sketchbook trip that led to painting backgrounds for Fire and Ice, and exactly how he built his glowing paintings layer by layer, ending with the moment he called turning on the light. Plus his faith, his family, and a word for every grandmother with a Kinkade calendar on her kitchen wall.
+
+AI Generated</description>
+      <itunes:summary>A special edition of Coffee With: a deep, unhurried conversation with Thomas Kinkade, the Painter of Light. His Placerville childhood, first teachers Charles Bell and Glenn Wessels, the cross-country sketchbook trip that led to painting backgrounds for Fire and Ice, and exactly how he built his glowing paintings layer by layer, ending with the moment he called turning on the light. Plus his faith, his family, and a word for every grandmother with a Kinkade calendar on her kitchen wall.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-d604d25f-2499-4011-8f0f-8701e0ae5fe7</guid>
+      <pubDate>Sun, 08 Nov 2026 02:20:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-d604d25f-2499-4011-8f0f-8701e0ae5fe7.mp3" length="8299429" type="audio/mpeg" />
+      <itunes:duration>1037</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With J. R. R. Tolkien</title>
+      <description>Ellis sits down for coffee with J. R. R. Tolkien: the languages that came first, the blank exam page that birthed a hobbit, the Silmarillion he never finished, Edith and Beren and Luthien, the Somme, and why he is, in his own words, a hobbit in all but size. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with J. R. R. Tolkien: the languages that came first, the blank exam page that birthed a hobbit, the Silmarillion he never finished, Edith and Beren and Luthien, the Somme, and why he is, in his own words, a hobbit in all but size. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-2221d6e1-8f5c-47bf-b1e3-539c3803addc</guid>
+      <pubDate>Sun, 08 Nov 2026 15:44:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-2221d6e1-8f5c-47bf-b1e3-539c3803addc.mp3" length="12023077" type="audio/mpeg" />
+      <itunes:duration>1502</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -1009,7 +1009,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-679cdfff-37f5-43e7-a130-f7e4d70e1700</guid>
       <pubDate>Fri, 06 Nov 2026 13:26:44 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-679cdfff-37f5-43e7-a130-f7e4d70e1700.mp3" length="14014693" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-679cdfff-37f5-43e7-a130-f7e4d70e1700.mp3" length="14014693" type="audio/mpeg" />
       <itunes:duration>1751</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1023,8 +1023,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-505d6497-7fe2-4686-82fa-91808377f0d9</guid>
       <pubDate>Sat, 07 Nov 2026 13:27:18 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-505d6497-7fe2-4686-82fa-91808377f0d9.mp3" length="11765797" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-505d6497-7fe2-4686-82fa-91808377f0d9.mp3" length="11765797" type="audio/mpeg" />
       <itunes:duration>1471</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Barcode That Knows Everything</title>
+      <description>From lines drawn in the sand to the beep at every checkout — how a grocer's complaint became the code that knows everything.
+
+AI Generated</description>
+      <itunes:summary>From lines drawn in the sand to the beep at every checkout — how a grocer's complaint became the code that knows everything.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-3da6796b-16a4-4083-b88b-7b6885584702</guid>
+      <pubDate>Sun, 08 Nov 2026 13:32:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-3da6796b-16a4-4083-b88b-7b6885584702.mp3" length="15555109" type="audio/mpeg" />
+      <itunes:duration>1944</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
