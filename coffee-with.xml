@@ -477,7 +477,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-9b8c5f75-c28d-49f8-81f3-6eebb39025e4</guid>
       <pubDate>Sat, 07 Nov 2026 15:29:04 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-9b8c5f75-c28d-49f8-81f3-6eebb39025e4.mp3" length="12932581" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-9b8c5f75-c28d-49f8-81f3-6eebb39025e4.mp3" length="12932581" type="audio/mpeg" />
       <itunes:duration>1616</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -491,7 +491,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-d604d25f-2499-4011-8f0f-8701e0ae5fe7</guid>
       <pubDate>Sun, 08 Nov 2026 02:20:11 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-d604d25f-2499-4011-8f0f-8701e0ae5fe7.mp3" length="8299429" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-d604d25f-2499-4011-8f0f-8701e0ae5fe7.mp3" length="8299429" type="audio/mpeg" />
       <itunes:duration>1037</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -505,8 +505,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-2221d6e1-8f5c-47bf-b1e3-539c3803addc</guid>
       <pubDate>Sun, 08 Nov 2026 15:44:36 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-2221d6e1-8f5c-47bf-b1e3-539c3803addc.mp3" length="12023077" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-2221d6e1-8f5c-47bf-b1e3-539c3803addc.mp3" length="12023077" type="audio/mpeg" />
       <itunes:duration>1502</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee with Harriet Tubman</title>
+      <description>Ellis sits down for coffee with Harriet Tubman — conductor of the Underground Railroad, Union scout and spy, and the woman they called Moses. Thirteen trips back, about seventy souls brought out, and she never lost a passenger.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Harriet Tubman — conductor of the Underground Railroad, Union scout and spy, and the woman they called Moses. Thirteen trips back, about seventy souls brought out, and she never lost a passenger.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b5a06970-e7d7-4263-bfaa-7f317b1bfc3e</guid>
+      <pubDate>Mon, 09 Nov 2026 14:30:04 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-b5a06970-e7d7-4263-bfaa-7f317b1bfc3e.mp3" length="11381605" type="audio/mpeg" />
+      <itunes:duration>1422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
