@@ -1051,8 +1051,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-69bfa68b-f79a-43a8-bba0-c7cdbf505f20</guid>
       <pubDate>Mon, 09 Nov 2026 13:34:02 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-69bfa68b-f79a-43a8-bba0-c7cdbf505f20.mp3" length="15728485" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-69bfa68b-f79a-43a8-bba0-c7cdbf505f20.mp3" length="15728485" type="audio/mpeg" />
       <itunes:duration>1966</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Tap That Pays for Everything</title>
+      <description>From wartime radio signals to a wave of your hand — how the tap replaced the wallet.
+
+AI Generated</description>
+      <itunes:summary>From wartime radio signals to a wave of your hand — how the tap replaced the wallet.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-de262483-263b-4159-985a-2e0779fc5852</guid>
+      <pubDate>Tue, 10 Nov 2026 13:26:43 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-de262483-263b-4159-985a-2e0779fc5852.mp3" length="14602981" type="audio/mpeg" />
+      <itunes:duration>1825</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

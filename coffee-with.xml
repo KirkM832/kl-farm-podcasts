@@ -523,5 +523,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Coffee with Walt Disney</title>
+      <description>Ellis sits down for coffee with Walt Disney — the train ride home from New York, the mouse with round ears, the Snow White gamble Hollywood called Disney's Folly, and the park in the orange grove that was never finished.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Walt Disney — the train ride home from New York, the mouse with round ears, the Snow White gamble Hollywood called Disney's Folly, and the park in the orange grove that was never finished.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-90fb58d5-cae3-4d7c-9b51-a70403654ab3</guid>
+      <pubDate>Tue, 10 Nov 2026 14:38:28 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-90fb58d5-cae3-4d7c-9b51-a70403654ab3.mp3" length="11215141" type="audio/mpeg" />
+      <itunes:duration>1401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
