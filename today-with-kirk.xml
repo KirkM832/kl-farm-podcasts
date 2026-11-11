@@ -1069,5 +1069,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1825</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Voice That Answers Back</title>
+      <description>From Bell's Visible Speech to Siri: the machines that learned to speak, listen, and answer back.
+
+AI Generated</description>
+      <itunes:summary>From Bell's Visible Speech to Siri: the machines that learned to speak, listen, and answer back.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2</guid>
+      <pubDate>Wed, 11 Nov 2026 13:26:52 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2.mp3" length="14922853" type="audio/mpeg" />
+      <itunes:duration>1865</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

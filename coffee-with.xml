@@ -519,7 +519,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b5a06970-e7d7-4263-bfaa-7f317b1bfc3e</guid>
       <pubDate>Mon, 09 Nov 2026 14:30:04 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-b5a06970-e7d7-4263-bfaa-7f317b1bfc3e.mp3" length="11381605" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-b5a06970-e7d7-4263-bfaa-7f317b1bfc3e.mp3" length="11381605" type="audio/mpeg" />
       <itunes:duration>1422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -533,8 +533,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-90fb58d5-cae3-4d7c-9b51-a70403654ab3</guid>
       <pubDate>Tue, 10 Nov 2026 14:38:28 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-90fb58d5-cae3-4d7c-9b51-a70403654ab3.mp3" length="11215141" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-90fb58d5-cae3-4d7c-9b51-a70403654ab3.mp3" length="11215141" type="audio/mpeg" />
       <itunes:duration>1401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee with Octavia Butler</title>
+      <description>Ellis sits down for coffee with Octavia Butler: the 2 a.m. writing habit, the potato-chip inspector years, Kindred's classroom spark, the red-ink notebook that said 'So be it! See to it!', the MacArthur genius grant, and God is Change — plus a mystery teaser for tomorrow's hand-drawn guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Octavia Butler: the 2 a.m. writing habit, the potato-chip inspector years, Kindred's classroom spark, the red-ink notebook that said 'So be it! See to it!', the MacArthur genius grant, and God is Change — plus a mystery teaser for tomorrow's hand-drawn guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-be96e222-b246-486c-86fd-a6f65b32136a</guid>
+      <pubDate>Wed, 11 Nov 2026 14:27:29 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-be96e222-b246-486c-86fd-a6f65b32136a.mp3" length="11045029" type="audio/mpeg" />
+      <itunes:duration>1380</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

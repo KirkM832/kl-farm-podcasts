@@ -551,5 +551,19 @@ AI Generated</itunes:summary>
       <itunes:duration>371</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: The Care Plan Is a Story</title>
+      <description>Wound care plans in Epic: the PES format, SMART goals, and the general charting flow — plus the Healogics care plan form.
+
+AI Generated</description>
+      <itunes:summary>Wound care plans in Epic: the PES format, SMART goals, and the general charting flow — plus the Healogics care plan form.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-a3d7bb29-8524-4fe0-a447-c9e6b8846dd1</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:03 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-a3d7bb29-8524-4fe0-a447-c9e6b8846dd1.mp3" length="2865253" type="audio/mpeg" />
+      <itunes:duration>358</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
