@@ -547,8 +547,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-be96e222-b246-486c-86fd-a6f65b32136a</guid>
       <pubDate>Wed, 11 Nov 2026 14:27:29 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-be96e222-b246-486c-86fd-a6f65b32136a.mp3" length="11045029" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-be96e222-b246-486c-86fd-a6f65b32136a.mp3" length="11045029" type="audio/mpeg" />
       <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Hayao Miyazaki</title>
+      <description>Ellis sits down for coffee with the Studio Ghibli master: Totoro and the mispronounced troll, the Zero fighter and his father's factory, the AI demo he called an insult to life itself, the Oscar he skipped on principle, and the retirement he keeps un-retiring. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with the Studio Ghibli master: Totoro and the mispronounced troll, the Zero fighter and his father's factory, the AI demo he called an insult to life itself, the Oscar he skipped on principle, and the retirement he keeps un-retiring. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-49d19353-fc38-4388-ac2b-731e712205d1</guid>
+      <pubDate>Thu, 12 Nov 2026 14:34:28 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-49d19353-fc38-4388-ac2b-731e712205d1.mp3" length="11201459" type="audio/mpeg" />
+      <itunes:duration>1400</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

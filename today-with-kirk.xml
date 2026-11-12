@@ -1065,7 +1065,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-de262483-263b-4159-985a-2e0779fc5852</guid>
       <pubDate>Tue, 10 Nov 2026 13:26:43 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-de262483-263b-4159-985a-2e0779fc5852.mp3" length="14602981" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-de262483-263b-4159-985a-2e0779fc5852.mp3" length="14602981" type="audio/mpeg" />
       <itunes:duration>1825</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1081,6 +1081,20 @@ AI Generated</itunes:summary>
       <pubDate>Wed, 11 Nov 2026 13:26:52 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2.mp3" length="14922853" type="audio/mpeg" />
       <itunes:duration>1865</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Face That Opens the Door</title>
+      <description>From Pinkerton's rogues' gallery to the camera that unlocks your phone — the whole history of recognizing a face.
+
+AI Generated</description>
+      <itunes:summary>From Pinkerton's rogues' gallery to the camera that unlocks your phone — the whole history of recognizing a face.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-bde69cd5-aea1-46b5-83dd-12382c07e26a</guid>
+      <pubDate>Thu, 12 Nov 2026 13:36:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-bde69cd5-aea1-46b5-83dd-12382c07e26a.mp3" length="15029413" type="audio/mpeg" />
+      <itunes:duration>1878</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
