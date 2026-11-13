@@ -565,5 +565,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1400</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Coffee With Jane Goodall</title>
+      <description>Ellis sits down for tea with Dr. Jane Goodall — the henhouse stakeout, David Greybeard and the blade of grass that redefined what it means to be human, the Four Year War, Flint's grief, and why every individual matters. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for tea with Dr. Jane Goodall — the henhouse stakeout, David Greybeard and the blade of grass that redefined what it means to be human, the Four Year War, Flint's grief, and why every individual matters. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-83ed86f4-cbe1-4631-b464-b84949eb0f32</guid>
+      <pubDate>Fri, 13 Nov 2026 14:48:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-83ed86f4-cbe1-4631-b464-b84949eb0f32.mp3" length="12379621" type="audio/mpeg" />
+      <itunes:duration>1547</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

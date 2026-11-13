@@ -1079,7 +1079,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2</guid>
       <pubDate>Wed, 11 Nov 2026 13:26:52 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2.mp3" length="14922853" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-32f89d69-92f4-4f5f-a9cd-088bd3fcc0d2.mp3" length="14922853" type="audio/mpeg" />
       <itunes:duration>1865</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1095,6 +1095,20 @@ AI Generated</itunes:summary>
       <pubDate>Thu, 12 Nov 2026 13:36:46 +0000</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-bde69cd5-aea1-46b5-83dd-12382c07e26a.mp3" length="15029413" type="audio/mpeg" />
       <itunes:duration>1878</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Eye That Knows You</title>
+      <description>How the colored ring around your pupil became the most unforgeable password in history — from a 1936 eye doctor's notebook to the borders of the desert and a billion people in India.
+
+AI Generated</description>
+      <itunes:summary>How the colored ring around your pupil became the most unforgeable password in history — from a 1936 eye doctor's notebook to the borders of the desert and a billion people in India.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c4b704e6-b360-436c-91b3-bbb8fbd66afc</guid>
+      <pubDate>Fri, 13 Nov 2026 13:51:13 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-c4b704e6-b360-436c-91b3-bbb8fbd66afc.mp3" length="15885733" type="audio/mpeg" />
+      <itunes:duration>1986</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
