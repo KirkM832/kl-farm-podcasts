@@ -5,13 +5,26 @@ name: Upload episodes to Internet Archive
 # then rewrites each feed item's enclosure URL via build-feeds.py, so Apple
 # Podcasts always sees enclosures that never expire.
 #
-# Schedule: runs after the morning episodes have published and feeds.yml has
-# rebuilt the feeds (feeds.yml runs ~7:15 AM ET; this runs ~8:45 AM ET).
+# Schedule: runs at 3:30 AM Eastern (winter) / 4:30 AM Eastern (summer) --
+# GitHub cron is UTC, so the local time shifts an hour at the DST change.
+# The dead-of-night slot is deliberate: the feeds workflow and the morning
+# episode publishes are quiet then, so this run's final commit has nobody
+# to race. It banks the previous day's episodes.
+#
+# Fix (Nov 15, 2026): the commit step now re-syncs and retries when its push
+# is rejected. The feeds workflow often commits while this run is uploading,
+# which used to make the final push fail and marked the whole run "failed"
+# even though the episodes uploaded fine. The concurrency block also keeps
+# two upload runs from overlapping.
 
 on:
   schedule:
-    - cron: "45 12 * * *"   # ~8:45 AM Eastern daily
+    - cron: "30 8 * * *"   # 3:30 AM EST / 4:30 AM EDT daily
   workflow_dispatch:
+
+concurrency:
+  group: ia-upload
+  cancel-in-progress: false
 
 jobs:
   upload:
@@ -37,4 +50,19 @@ jobs:
           git config user.name "kl-farm-bot"
           git config user.email "kl-farm-bot@users.noreply.github.com"
           git add enclosure-overrides.json
-          git diff --cached --quiet || (git commit -m "Update IA enclosure overrides" && git push)
+          if git diff --cached --quiet; then
+            echo "No override changes to commit."
+            exit 0
+          fi
+          git commit -m "Update IA enclosure overrides"
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt of 5) - the feeds workflow likely committed during the upload. Re-syncing and retrying..."
+            git pull --rebase origin main
+            sleep 5
+          done
+          echo "Push still failing after 5 attempts."
+          exit 1
