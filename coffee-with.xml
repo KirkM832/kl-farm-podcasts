@@ -589,8 +589,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-6b8857d1-b74b-484f-bdab-7e5701e45540</guid>
       <pubDate>Sat, 14 Nov 2026 14:44:32 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-6b8857d1-b74b-484f-bdab-7e5701e45540.mp3" length="10403941" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-6b8857d1-b74b-484f-bdab-7e5701e45540.mp3" length="10403941" type="audio/mpeg" />
       <itunes:duration>1300</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Temple Grandin</title>
+      <description>Ellis sits down with Temple Grandin: the animal scientist who thinks in pictures, built a machine to hug herself, and redesigned how America handles cattle, for the ten questions, plus the squeeze machine, the curved chute, and the clipboard that changed the beef industry.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with Temple Grandin: the animal scientist who thinks in pictures, built a machine to hug herself, and redesigned how America handles cattle, for the ten questions, plus the squeeze machine, the curved chute, and the clipboard that changed the beef industry.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-b0d27722-80ac-4f04-a709-4c9fb8c48539</guid>
+      <pubDate>Sun, 15 Nov 2026 14:37:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-b0d27722-80ac-4f04-a709-4c9fb8c48539.mp3" length="10095589" type="audio/mpeg" />
+      <itunes:duration>1261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

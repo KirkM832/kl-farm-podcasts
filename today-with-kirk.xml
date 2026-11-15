@@ -1107,7 +1107,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-c4b704e6-b360-436c-91b3-bbb8fbd66afc</guid>
       <pubDate>Fri, 13 Nov 2026 13:51:13 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-c4b704e6-b360-436c-91b3-bbb8fbd66afc.mp3" length="15885733" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-c4b704e6-b360-436c-91b3-bbb8fbd66afc.mp3" length="15885733" type="audio/mpeg" />
       <itunes:duration>1986</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1121,8 +1121,36 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-4ac1bd36-29dc-42a4-879b-f96705a6945c</guid>
       <pubDate>Sat, 14 Nov 2026 13:31:04 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4ac1bd36-29dc-42a4-879b-f96705a6945c.mp3" length="13515877" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-4ac1bd36-29dc-42a4-879b-f96705a6945c.mp3" length="13515877" type="audio/mpeg" />
       <itunes:duration>1689</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: Patient Zero — The Great Pox</title>
+      <description>Part 1 of the Patient Zero arc. Diseases pass from person to person — but who gave it to the first person? Milo and Ruby follow syphilis from the explosion at Naples in 1495 through the blame game of nations, Fracastoro's poem, the germ's tropical family (yaws, bejel, pinta), the 2024 ancient-DNA evidence for an American origin, four centuries of mercury cures, and the mad-king question — Henry VIII speculation labeled as speculation, and the real madness of general paresis that filled nineteenth-century asylums.
+
+AI Generated</description>
+      <itunes:summary>Part 1 of the Patient Zero arc. Diseases pass from person to person — but who gave it to the first person? Milo and Ruby follow syphilis from the explosion at Naples in 1495 through the blame game of nations, Fracastoro's poem, the germ's tropical family (yaws, bejel, pinta), the 2024 ancient-DNA evidence for an American origin, four centuries of mercury cures, and the mad-king question — Henry VIII speculation labeled as speculation, and the real madness of general paresis that filled nineteenth-century asylums.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-eae4e432-6a0a-478a-9c5f-003bd673e343</guid>
+      <pubDate>Sat, 14 Nov 2026 20:19:24 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-eae4e432-6a0a-478a-9c5f-003bd673e343.mp3" length="15020005" type="audio/mpeg" />
+      <itunes:duration>1877</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: Patient Zero — The Spots That Needed a City</title>
+      <description>Part 2 of the Patient Zero arc: measles, the most contagious virus we know, could only exist once cities grew big enough — and the 1912 Berlin lung that dated its jump from cattle to about 2,500 years ago.
+
+AI Generated</description>
+      <itunes:summary>Part 2 of the Patient Zero arc: measles, the most contagious virus we know, could only exist once cities grew big enough — and the 1912 Berlin lung that dated its jump from cattle to about 2,500 years ago.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-771f4668-08a0-4f05-9631-1162883ea12f</guid>
+      <pubDate>Sun, 15 Nov 2026 13:32:53 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-771f4668-08a0-4f05-9631-1162883ea12f.mp3" length="16313893" type="audio/mpeg" />
+      <itunes:duration>2039</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
