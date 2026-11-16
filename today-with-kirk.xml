@@ -1135,7 +1135,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-eae4e432-6a0a-478a-9c5f-003bd673e343</guid>
       <pubDate>Sat, 14 Nov 2026 20:19:24 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-eae4e432-6a0a-478a-9c5f-003bd673e343.mp3" length="15020005" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-eae4e432-6a0a-478a-9c5f-003bd673e343.mp3" length="15020005" type="audio/mpeg" />
       <itunes:duration>1877</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1149,8 +1149,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-771f4668-08a0-4f05-9631-1162883ea12f</guid>
       <pubDate>Sun, 15 Nov 2026 13:32:53 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-771f4668-08a0-4f05-9631-1162883ea12f.mp3" length="16313893" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-771f4668-08a0-4f05-9631-1162883ea12f.mp3" length="16313893" type="audio/mpeg" />
       <itunes:duration>2039</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: Patient Zero — The Ancient Passenger and the Watched Jump</title>
+      <description>The finale of the Patient Zero hunt: herpes, older than humanity itself; gonorrhea and chlamydia, the throat germs that moved house; and HIV, the jump the modern world watched happen — plus the true story of Patient O.
+
+AI Generated</description>
+      <itunes:summary>The finale of the Patient Zero hunt: herpes, older than humanity itself; gonorrhea and chlamydia, the throat germs that moved house; and HIV, the jump the modern world watched happen — plus the true story of Patient O.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-80036c7b-135b-4325-bdb0-451d66c86d4d</guid>
+      <pubDate>Mon, 16 Nov 2026 13:41:17 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-80036c7b-135b-4325-bdb0-451d66c86d4d.mp3" length="15629989" type="audio/mpeg" />
+      <itunes:duration>1953</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
