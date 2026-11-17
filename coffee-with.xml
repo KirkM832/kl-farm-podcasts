@@ -603,7 +603,7 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-b0d27722-80ac-4f04-a709-4c9fb8c48539</guid>
       <pubDate>Sun, 15 Nov 2026 14:37:47 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-b0d27722-80ac-4f04-a709-4c9fb8c48539.mp3" length="10095589" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-b0d27722-80ac-4f04-a709-4c9fb8c48539.mp3" length="10095589" type="audio/mpeg" />
       <itunes:duration>1261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -617,8 +617,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0e5003b4-471c-4d75-a1ca-7143fb0bb9de</guid>
       <pubDate>Mon, 16 Nov 2026 14:37:22 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-0e5003b4-471c-4d75-a1ca-7143fb0bb9de.mp3" length="11345317" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-0e5003b4-471c-4d75-a1ca-7143fb0bb9de.mp3" length="11345317" type="audio/mpeg" />
       <itunes:duration>1418</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With David Bowie</title>
+      <description>Ellis sits down for coffee with David Bowie — Ziggy Stardust, the Thin White Duke, the Goblin King — an imagined conversation grounded in the historical record, plus a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with David Bowie — Ziggy Stardust, the Thin White Duke, the Goblin King — an imagined conversation grounded in the historical record, plus a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-886813eb-edcb-46bf-abf2-69b9edd5e48c</guid>
+      <pubDate>Tue, 17 Nov 2026 14:38:48 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-886813eb-edcb-46bf-abf2-69b9edd5e48c.mp3" length="10654309" type="audio/mpeg" />
+      <itunes:duration>1331</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
