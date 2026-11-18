@@ -100,5 +100,19 @@ AI Generated</itunes:summary>
       <itunes:duration>2944</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>One Damn Thing After Another: The Sky Went Dark</title>
+      <description>Why does the air traffic system keep failing? The November 13, 2026 nationwide ground stop — the third in US history — traced back through the Grand Canyon crash that created the FAA, the PATCO firing that hollowed out the workforce, and the modernization programs that never arrived.
+
+AI Generated</description>
+      <itunes:summary>Why does the air traffic system keep failing? The November 13, 2026 nationwide ground stop — the third in US history — traced back through the Grand Canyon crash that created the FAA, the PATCO firing that hollowed out the workforce, and the modernization programs that never arrived.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-509fcd33-eb55-471b-81c7-ac2c95c068e0</guid>
+      <pubDate>Wed, 18 Nov 2026 12:05:10 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/4557e744-8f50-4930-a7c2-0ec2a86a1b7a/ep-509fcd33-eb55-471b-81c7-ac2c95c068e0.mp3" length="23841253" type="audio/mpeg" />
+      <itunes:duration>2980</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

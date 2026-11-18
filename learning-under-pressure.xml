@@ -565,5 +565,19 @@ AI Generated</itunes:summary>
       <itunes:duration>358</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Gears, Huddles, and the Finish Line</title>
+      <description>A walkthrough of the Healogics start-to-finish care model on our wall — planning, huddles, teamwork, real-time decision support, and the finish line.
+
+AI Generated</description>
+      <itunes:summary>A walkthrough of the Healogics start-to-finish care model on our wall — planning, huddles, teamwork, real-time decision support, and the finish line.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-63a9ce0b-42dd-409f-a6e1-06235668f7e2</guid>
+      <pubDate>Wed, 18 Nov 2026 11:34:01 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-63a9ce0b-42dd-409f-a6e1-06235668f7e2.mp3" length="2408101" type="audio/mpeg" />
+      <itunes:duration>301</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

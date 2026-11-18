@@ -1177,8 +1177,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-3f116377-abef-4b1e-bd86-224f442aa32e</guid>
       <pubDate>Tue, 17 Nov 2026 13:33:21 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-3f116377-abef-4b1e-bd86-224f442aa32e.mp3" length="16090789" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-3f116377-abef-4b1e-bd86-224f442aa32e.mp3" length="16090789" type="audio/mpeg" />
       <itunes:duration>2011</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Clock Goes to Sea</title>
+      <description>Part 2 of the Clock arc: the Scilly disaster, the 20,000-pound longitude prize, and John Harrison's sea watch that lost five seconds in eighty-one days.
+
+AI Generated</description>
+      <itunes:summary>Part 2 of the Clock arc: the Scilly disaster, the 20,000-pound longitude prize, and John Harrison's sea watch that lost five seconds in eighty-one days.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e09fa56c-e50c-47ca-a513-69a351c88e06</guid>
+      <pubDate>Wed, 18 Nov 2026 13:44:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-e09fa56c-e50c-47ca-a513-69a351c88e06.mp3" length="13957285" type="audio/mpeg" />
+      <itunes:duration>1745</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

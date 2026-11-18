@@ -631,8 +631,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-886813eb-edcb-46bf-abf2-69b9edd5e48c</guid>
       <pubDate>Tue, 17 Nov 2026 14:38:48 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-886813eb-edcb-46bf-abf2-69b9edd5e48c.mp3" length="10654309" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-886813eb-edcb-46bf-abf2-69b9edd5e48c.mp3" length="10654309" type="audio/mpeg" />
       <itunes:duration>1331</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee with Steve Irwin</title>
+      <description>Ellis sits down for coffee with Steve Irwin: an imagined conversation grounded in the historical record. The honeymoon that became a TV show, the croc jumps, the baby Bob demo, and what it means to be a wildlife warrior. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Steve Irwin: an imagined conversation grounded in the historical record. The honeymoon that became a TV show, the croc jumps, the baby Bob demo, and what it means to be a wildlife warrior. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e74fea69-ed02-4014-a596-b75f320c32e7</guid>
+      <pubDate>Wed, 18 Nov 2026 14:31:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-e74fea69-ed02-4014-a596-b75f320c32e7.mp3" length="10360741" type="audio/mpeg" />
+      <itunes:duration>1295</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
