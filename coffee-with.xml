@@ -645,8 +645,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-e74fea69-ed02-4014-a596-b75f320c32e7</guid>
       <pubDate>Wed, 18 Nov 2026 14:31:14 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-e74fea69-ed02-4014-a596-b75f320c32e7.mp3" length="10360741" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-e74fea69-ed02-4014-a596-b75f320c32e7.mp3" length="10360741" type="audio/mpeg" />
       <itunes:duration>1295</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee with Ada Lovelace</title>
+      <description>Ellis sits down for coffee with Ada Lovelace: an imagined conversation grounded in the historical record. Poetical science, the first published computer program, the Jacquard loom, and the hardest decision she ever made. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Ada Lovelace: an imagined conversation grounded in the historical record. Poetical science, the first published computer program, the Jacquard loom, and the hardest decision she ever made. Ends with a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-0c6447b6-9f9f-4bef-b214-994220a5b01c</guid>
+      <pubDate>Thu, 19 Nov 2026 14:33:10 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-0c6447b6-9f9f-4bef-b214-994220a5b01c.mp3" length="10803685" type="audio/mpeg" />
+      <itunes:duration>1350</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

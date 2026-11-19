@@ -1191,8 +1191,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-e09fa56c-e50c-47ca-a513-69a351c88e06</guid>
       <pubDate>Wed, 18 Nov 2026 13:44:12 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-e09fa56c-e50c-47ca-a513-69a351c88e06.mp3" length="13957285" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-e09fa56c-e50c-47ca-a513-69a351c88e06.mp3" length="13957285" type="audio/mpeg" />
       <itunes:duration>1745</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Clock Goes to Work</title>
+      <description>Part 3 of the Clock arc: the factory bell, railway time, the punch clock, and the eight-hour day — how the clock took over the working world.
+
+AI Generated</description>
+      <itunes:summary>Part 3 of the Clock arc: the factory bell, railway time, the punch clock, and the eight-hour day — how the clock took over the working world.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-8e93d17c-f778-4de5-a0b8-5ee5a6c74dc1</guid>
+      <pubDate>Thu, 19 Nov 2026 13:30:22 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8e93d17c-f778-4de5-a0b8-5ee5a6c74dc1.mp3" length="15755749" type="audio/mpeg" />
+      <itunes:duration>1969</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
