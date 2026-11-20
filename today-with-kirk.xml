@@ -1205,8 +1205,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8e93d17c-f778-4de5-a0b8-5ee5a6c74dc1</guid>
       <pubDate>Thu, 19 Nov 2026 13:30:22 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8e93d17c-f778-4de5-a0b8-5ee5a6c74dc1.mp3" length="15755749" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-8e93d17c-f778-4de5-a0b8-5ee5a6c74dc1.mp3" length="15755749" type="audio/mpeg" />
       <itunes:duration>1969</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Night That Became Day</title>
+      <description>How light was bottled: fire, whale oil, gaslight, and kerosene remade the night, the city, and bedtime.
+
+AI Generated</description>
+      <itunes:summary>How light was bottled: fire, whale oil, gaslight, and kerosene remade the night, the city, and bedtime.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-45db6dba-d31c-4ed2-8538-18c2c0047fed</guid>
+      <pubDate>Fri, 20 Nov 2026 13:28:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-45db6dba-d31c-4ed2-8538-18c2c0047fed.mp3" length="15873445" type="audio/mpeg" />
+      <itunes:duration>1984</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
