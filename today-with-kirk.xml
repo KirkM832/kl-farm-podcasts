@@ -1219,8 +1219,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-45db6dba-d31c-4ed2-8538-18c2c0047fed</guid>
       <pubDate>Fri, 20 Nov 2026 13:28:46 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-45db6dba-d31c-4ed2-8538-18c2c0047fed.mp3" length="15873445" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-45db6dba-d31c-4ed2-8538-18c2c0047fed.mp3" length="15873445" type="audio/mpeg" />
       <itunes:duration>1984</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Bulb That Stayed Lit</title>
+      <description>Edison and the bulb that stayed lit, the war of the currents, and the night the grid went live.
+
+AI Generated</description>
+      <itunes:summary>Edison and the bulb that stayed lit, the war of the currents, and the night the grid went live.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-4789a8ce-aef2-4ccc-bd17-6f07e02484c8</guid>
+      <pubDate>Sat, 21 Nov 2026 13:31:52 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-4789a8ce-aef2-4ccc-bd17-6f07e02484c8.mp3" length="14859685" type="audio/mpeg" />
+      <itunes:duration>1857</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

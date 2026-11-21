@@ -673,8 +673,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-d0cd8703-0a2b-4f99-ae72-ea884987b1d6</guid>
       <pubDate>Fri, 20 Nov 2026 14:31:54 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-d0cd8703-0a2b-4f99-ae72-ea884987b1d6.mp3" length="10437349" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-d0cd8703-0a2b-4f99-ae72-ea884987b1d6.mp3" length="10437349" type="audio/mpeg" />
       <itunes:duration>1305</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Neil Armstrong: The Return Visit</title>
+      <description>Ellis sits down for coffee with Neil Armstrong, again. The first man on the Moon returns to talk about the parts they skipped last time: the X-15 flight that overshot Edwards and sailed over the Rose Bowl, the lunar trainer that nearly killed him, the bag of dirt that rewrote lunar history, and the autograph he will never give you.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Neil Armstrong, again. The first man on the Moon returns to talk about the parts they skipped last time: the X-15 flight that overshot Edwards and sailed over the Rose Bowl, the lunar trainer that nearly killed him, the bag of dirt that rewrote lunar history, and the autograph he will never give you.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-3af6e495-e9b1-4e88-bc52-b90a0958835b</guid>
+      <pubDate>Sat, 21 Nov 2026 14:31:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-3af6e495-e9b1-4e88-bc52-b90a0958835b.mp3" length="9987493" type="audio/mpeg" />
+      <itunes:duration>1248</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
