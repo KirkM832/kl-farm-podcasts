@@ -1237,5 +1237,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1857</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Dominoes: The Light That Never Sleeps</title>
+      <description>Neon, fluorescent light, the laser, the light that went to the moon, and the LED — and what happens when the night never comes.
+
+AI Generated</description>
+      <itunes:summary>Neon, fluorescent light, the laser, the light that went to the moon, and the LED — and what happens when the night never comes.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-e10121c0-479d-4ed4-9f64-c8db4b9d3943</guid>
+      <pubDate>Sun, 22 Nov 2026 13:38:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-e10121c0-479d-4ed4-9f64-c8db4b9d3943.mp3" length="13810789" type="audio/mpeg" />
+      <itunes:duration>1726</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

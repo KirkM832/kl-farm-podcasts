@@ -687,8 +687,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-3af6e495-e9b1-4e88-bc52-b90a0958835b</guid>
       <pubDate>Sat, 21 Nov 2026 14:31:11 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-3af6e495-e9b1-4e88-bc52-b90a0958835b.mp3" length="9987493" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-3af6e495-e9b1-4e88-bc52-b90a0958835b.mp3" length="9987493" type="audio/mpeg" />
       <itunes:duration>1248</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Robin Williams</title>
+      <description>Ellis sits down with Robin Williams — Mork, the Genie, Mrs. Doubtfire, and the man behind the voices — for coffee, comedy, and a few serious moments.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with Robin Williams — Mork, the Genie, Mrs. Doubtfire, and the man behind the voices — for coffee, comedy, and a few serious moments.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-779e5929-7d5d-4b20-9b4a-307bd42a21ba</guid>
+      <pubDate>Sun, 22 Nov 2026 14:30:34 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-779e5929-7d5d-4b20-9b4a-307bd42a21ba.mp3" length="10547173" type="audio/mpeg" />
+      <itunes:duration>1318</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
