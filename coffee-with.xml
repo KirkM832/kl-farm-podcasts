@@ -701,8 +701,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-779e5929-7d5d-4b20-9b4a-307bd42a21ba</guid>
       <pubDate>Sun, 22 Nov 2026 14:30:34 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-779e5929-7d5d-4b20-9b4a-307bd42a21ba.mp3" length="10547173" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-779e5929-7d5d-4b20-9b4a-307bd42a21ba.mp3" length="10547173" type="audio/mpeg" />
       <itunes:duration>1318</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Audrey Hepburn: The Return Visit</title>
+      <description>Ellis sits down for coffee with Audrey Hepburn a second time: the Nun's Story, Sabrina, Anne Frank, the poems she never wrote, and the lines she never said.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down for coffee with Audrey Hepburn a second time: the Nun's Story, Sabrina, Anne Frank, the poems she never wrote, and the lines she never said.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-f37cc58c-8e08-4ef0-aa25-948023dc4c4c</guid>
+      <pubDate>Mon, 23 Nov 2026 14:44:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-f37cc58c-8e08-4ef0-aa25-948023dc4c4c.mp3" length="12355429" type="audio/mpeg" />
+      <itunes:duration>1544</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
