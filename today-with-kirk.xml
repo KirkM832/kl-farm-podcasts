@@ -1261,8 +1261,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-692938d6-362a-479e-81aa-032815359503</guid>
       <pubDate>Mon, 23 Nov 2026 13:55:34 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-692938d6-362a-479e-81aa-032815359503.mp3" length="13559077" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-692938d6-362a-479e-81aa-032815359503.mp3" length="13559077" type="audio/mpeg" />
       <itunes:duration>1695</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Bean That Stormed Europe</title>
+      <description>Part 2 of the coffee arc: the bean storms Europe — popes, kings, doctors and wives all try to stop it, a bouquet of flowers smuggles it to Brazil, and a tax on tea makes America a coffee nation.
+
+AI Generated</description>
+      <itunes:summary>Part 2 of the coffee arc: the bean storms Europe — popes, kings, doctors and wives all try to stop it, a bouquet of flowers smuggles it to Brazil, and a tax on tea makes America a coffee nation.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-1abb13da-6503-4a2a-b570-89a453ffaa47</guid>
+      <pubDate>Tue, 24 Nov 2026 13:32:05 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-1abb13da-6503-4a2a-b570-89a453ffaa47.mp3" length="13212325" type="audio/mpeg" />
+      <itunes:duration>1651</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

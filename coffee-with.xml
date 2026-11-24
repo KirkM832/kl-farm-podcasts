@@ -719,5 +719,19 @@ AI Generated</itunes:summary>
       <itunes:duration>1544</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Coffee with Neil deGrasse Tyson</title>
+      <description>Ellis sits down with astrophysicist Neil deGrasse Tyson — the nine-year-old who thought the planetarium sky was a hoax, the letter from Carl Sagan, the doctorate that fell apart in Texas, and the hate mail from third graders over Pluto.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with astrophysicist Neil deGrasse Tyson — the nine-year-old who thought the planetarium sky was a hoax, the letter from Carl Sagan, the doctorate that fell apart in Texas, and the hate mail from third graders over Pluto.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-745c7e28-7619-46c0-b361-c17bd94ee68b</guid>
+      <pubDate>Tue, 24 Nov 2026 14:31:58 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-745c7e28-7619-46c0-b361-c17bd94ee68b.mp3" length="10658149" type="audio/mpeg" />
+      <itunes:duration>1332</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
