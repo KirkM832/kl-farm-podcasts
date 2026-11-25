@@ -1275,8 +1275,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-1abb13da-6503-4a2a-b570-89a453ffaa47</guid>
       <pubDate>Tue, 24 Nov 2026 13:32:05 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-1abb13da-6503-4a2a-b570-89a453ffaa47.mp3" length="13212325" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-1abb13da-6503-4a2a-b570-89a453ffaa47.mp3" length="13212325" type="audio/mpeg" />
       <itunes:duration>1651</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Crystal That Built Empires</title>
+      <description>Salt — the crystal the body needs, the road Rome built, the desert trade worth its weight in gold, and the monopoly that made Venice rich.
+
+AI Generated</description>
+      <itunes:summary>Salt — the crystal the body needs, the road Rome built, the desert trade worth its weight in gold, and the monopoly that made Venice rich.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-8088ef15-60bb-489e-b0ee-27bf2cc7dcd7</guid>
+      <pubDate>Wed, 25 Nov 2026 13:32:29 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8088ef15-60bb-489e-b0ee-27bf2cc7dcd7.mp3" length="14280510" type="audio/mpeg" />
+      <itunes:duration>1783</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

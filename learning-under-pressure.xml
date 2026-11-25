@@ -579,5 +579,19 @@ AI Generated</itunes:summary>
       <itunes:duration>301</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Learning Under Pressure: Don't Panic in the Tube</title>
+      <description>Coaching anxious patients through chamber claustrophobia — screening, the pre-dive chat, and what to do when panic hits mid-treatment.
+
+AI Generated</description>
+      <itunes:summary>Coaching anxious patients through chamber claustrophobia — screening, the pre-dive chat, and what to do when panic hits mid-treatment.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7a6ce195-5b37-40de-8884-3435a882fd63</guid>
+      <pubDate>Wed, 25 Nov 2026 11:34:35 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/0087914e-9832-4aeb-931c-e2c0d4949232/ep-7a6ce195-5b37-40de-8884-3435a882fd63.mp3" length="2498046" type="audio/mpeg" />
+      <itunes:duration>309</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
