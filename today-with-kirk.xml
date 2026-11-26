@@ -1289,8 +1289,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-8088ef15-60bb-489e-b0ee-27bf2cc7dcd7</guid>
       <pubDate>Wed, 25 Nov 2026 13:32:29 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-8088ef15-60bb-489e-b0ee-27bf2cc7dcd7.mp3" length="14280510" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-8088ef15-60bb-489e-b0ee-27bf2cc7dcd7.mp3" length="14280510" type="audio/mpeg" />
       <itunes:duration>1783</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Salt That Went to War</title>
+      <description>Salted cod, the hated French salt tax, and Gandhi's march to the sea — how one crystal went to war.
+
+AI Generated</description>
+      <itunes:summary>Salted cod, the hated French salt tax, and Gandhi's march to the sea — how one crystal went to war.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-99b4d5aa-da87-48d9-8ac4-a460f744d334</guid>
+      <pubDate>Thu, 26 Nov 2026 13:29:09 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-99b4d5aa-da87-48d9-8ac4-a460f744d334.mp3" length="13999422" type="audio/mpeg" />
+      <itunes:duration>1748</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

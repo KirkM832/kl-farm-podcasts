@@ -743,8 +743,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-0bc79a47-71b9-4705-a901-e00e1fd6795b</guid>
       <pubDate>Wed, 25 Nov 2026 14:38:00 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-0bc79a47-71b9-4705-a901-e00e1fd6795b.mp3" length="12055230" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-0bc79a47-71b9-4705-a901-e00e1fd6795b.mp3" length="12055230" type="audio/mpeg" />
       <itunes:duration>1504</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Albert Einstein</title>
+      <description>Ellis sits down with Albert Einstein, the patent clerk who rewrote physics, for coffee and the ten questions — plus the miracle year of 1905, the beam of light he chased at sixteen, the biggest blunder of his life, the letter to Roosevelt, and why imagination matters more than knowledge.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with Albert Einstein, the patent clerk who rewrote physics, for coffee and the ten questions — plus the miracle year of 1905, the beam of light he chased at sixteen, the biggest blunder of his life, the letter to Roosevelt, and why imagination matters more than knowledge.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-195492bb-cc79-4378-9854-cab5bfc433a0</guid>
+      <pubDate>Thu, 26 Nov 2026 13:30:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-195492bb-cc79-4378-9854-cab5bfc433a0.mp3" length="11873598" type="audio/mpeg" />
+      <itunes:duration>1481</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
