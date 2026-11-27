@@ -1303,8 +1303,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-99b4d5aa-da87-48d9-8ac4-a460f744d334</guid>
       <pubDate>Thu, 26 Nov 2026 13:29:09 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-99b4d5aa-da87-48d9-8ac4-a460f744d334.mp3" length="13999422" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-today-with-kirk/ep-99b4d5aa-da87-48d9-8ac4-a460f744d334.mp3" length="13999422" type="audio/mpeg" />
       <itunes:duration>1748</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dominoes: The Salt Beneath Our Feet</title>
+      <description>Salt goes underground: the mines beneath our feet, the men who dig without sunlight, the roads kept open by salt, and the new white gold the world is fighting over.
+
+AI Generated</description>
+      <itunes:summary>Salt goes underground: the mines beneath our feet, the men who dig without sunlight, the roads kept open by salt, and the new white gold the world is fighting over.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-c9e8d16b-25d1-4926-b90d-0ec8e85416af</guid>
+      <pubDate>Fri, 27 Nov 2026 13:28:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/303f3fe1-4139-4551-8d5a-5b06b43d6b72/ep-c9e8d16b-25d1-4926-b90d-0ec8e85416af.mp3" length="13934718" type="audio/mpeg" />
+      <itunes:duration>1739</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

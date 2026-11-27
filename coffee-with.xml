@@ -757,8 +757,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-195492bb-cc79-4378-9854-cab5bfc433a0</guid>
       <pubDate>Thu, 26 Nov 2026 13:30:47 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-195492bb-cc79-4378-9854-cab5bfc433a0.mp3" length="11873598" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-195492bb-cc79-4378-9854-cab5bfc433a0.mp3" length="11873598" type="audio/mpeg" />
       <itunes:duration>1481</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Lucille Ball</title>
+      <description>Ellis sits down with Lucille Ball: the Queen of the B's, the Vitameatavegamin commercial, the chocolate factory, the grape vat, and the woman who bought the studio. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with Lucille Ball: the Queen of the B's, the Vitameatavegamin commercial, the chocolate factory, the grape vat, and the woman who bought the studio. Plus a mystery teaser for tomorrow's guest.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-bedde414-68a2-49e9-bdf6-da1c0152c168</guid>
+      <pubDate>Fri, 27 Nov 2026 13:40:29 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-bedde414-68a2-49e9-bdf6-da1c0152c168.mp3" length="10303614" type="audio/mpeg" />
+      <itunes:duration>1285</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
