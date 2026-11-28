@@ -771,8 +771,22 @@ AI Generated</description>
 AI Generated</itunes:summary>
       <guid isPermaLink="false">ep-bedde414-68a2-49e9-bdf6-da1c0152c168</guid>
       <pubDate>Fri, 27 Nov 2026 13:40:29 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-bedde414-68a2-49e9-bdf6-da1c0152c168.mp3" length="10303614" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/kl-farm-coffee-with/ep-bedde414-68a2-49e9-bdf6-da1c0152c168.mp3" length="10303614" type="audio/mpeg" />
       <itunes:duration>1285</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Coffee With Elvis Presley</title>
+      <description>Ellis sits down with Elvis Presley — Tupelo, Sun Records, the Army, the Nixon meeting, the comeback, and the sandwich that required a private jet.
+
+AI Generated</description>
+      <itunes:summary>Ellis sits down with Elvis Presley — Tupelo, Sun Records, the Army, the Nixon meeting, the comeback, and the sandwich that required a private jet.
+
+AI Generated</itunes:summary>
+      <guid isPermaLink="false">ep-7d976765-8c9f-42f3-a479-38df08434909</guid>
+      <pubDate>Sat, 28 Nov 2026 14:42:07 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1258569844016700/8b2d435e-55fe-4b9e-a0a7-c5c86c842357/ep-7d976765-8c9f-42f3-a479-38df08434909.mp3" length="10481598" type="audio/mpeg" />
+      <itunes:duration>1307</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
